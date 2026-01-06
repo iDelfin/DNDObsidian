@@ -1,5 +1,6 @@
 Mic- -> Mictlan: Infierno Azteca
 -Ixhua: Nacer
+
 ---
 ## Description
 This are the separated parts from [TBC The Masiosare](TBC%20The%20Masiosare.md) that are scattered around the world of Direm. They come in different forms and have their own myth and legends but all as dangerous as a loose demon on mortals.

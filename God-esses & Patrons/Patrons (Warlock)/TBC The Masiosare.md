@@ -3,6 +3,7 @@
 ---
 aliases: ["The Liquid Fire", "It who's removed", "The King of Nothing"]
 tags: [Patron, Evil]
+
 ---
 
 > *"Annihilation is inevitable"*
