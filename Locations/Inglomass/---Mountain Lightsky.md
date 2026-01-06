@@ -1,0 +1,1 @@
+The biggest mountain in all of Direm and an important landmark for [Inglomass](Inglomass.md)

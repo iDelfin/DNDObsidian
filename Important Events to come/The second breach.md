@@ -1,0 +1,1 @@
+This event will be the moment where the enemies `Masiosares` discovers the location of one of the `Doors of Origin` which leads to the `feywild`. This creates a problems as the `Masiosares` will gain access to the Kuauteponaualotl an with it, the opposite of it's energy and the possibility of annihilation.

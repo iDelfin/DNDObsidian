@@ -1,0 +1,1 @@
+![feelings-wheel-explained](feelings-wheel-explained.jpg)

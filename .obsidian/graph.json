@@ -1,0 +1,170 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Continent of Torania",
+      "color": {
+        "a": 1,
+        "rgb": 2722774
+      }
+    },
+    {
+      "query": "Campagnes",
+      "color": {
+        "a": 1,
+        "rgb": 1988357
+      }
+    },
+    {
+      "query": "Inglomass",
+      "color": {
+        "a": 1,
+        "rgb": 363028
+      }
+    },
+    {
+      "query": "\"Religion Of Dirme\"",
+      "color": {
+        "a": 1,
+        "rgb": 16709274
+      }
+    },
+    {
+      "query": "Disciplines",
+      "color": {
+        "a": 1,
+        "rgb": 16630044
+      }
+    },
+    {
+      "query": "Patrons",
+      "color": {
+        "a": 1,
+        "rgb": 2228270
+      }
+    },
+    {
+      "query": "Gods and Goddesses",
+      "color": {
+        "a": 1,
+        "rgb": 9754367
+      }
+    },
+    {
+      "query": "Deities",
+      "color": {
+        "a": 1,
+        "rgb": 12515326
+      }
+    },
+    {
+      "query": "Sacred locations",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "Father Lands",
+      "color": {
+        "a": 1,
+        "rgb": 6029771
+      }
+    },
+    {
+      "query": "\"Historic Battles\"",
+      "color": {
+        "a": 1,
+        "rgb": 7026944
+      }
+    },
+    {
+      "query": "\"Bosses\"",
+      "color": {
+        "a": 1,
+        "rgb": 406272
+      }
+    },
+    {
+      "query": "\"Ojyolco\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711854
+      }
+    },
+    {
+      "query": "\"Player Characters\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "\"Cults\"",
+      "color": {
+        "a": 1,
+        "rgb": 10486531
+      }
+    },
+    {
+      "query": "Big events",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "\"Special Items\"",
+      "color": {
+        "a": 1,
+        "rgb": 4609027
+      }
+    },
+    {
+      "query": "\"Side quest\"",
+      "color": {
+        "a": 1,
+        "rgb": 14783417
+      }
+    },
+    {
+      "query": "\"Cities\"",
+      "color": {
+        "a": 1,
+        "rgb": 6772072
+      }
+    },
+    {
+      "query": "Depricated",
+      "color": {
+        "a": 1,
+        "rgb": 4325376
+      }
+    },
+    {
+      "query": "World laws and systems",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1.0953125,
+  "lineSizeMultiplier": 2.396875,
+  "collapse-forces": true,
+  "centerStrength": 0.302083333333333,
+  "repelStrength": 10.2083333333333,
+  "linkStrength": 0.700520833333333,
+  "linkDistance": 258,
+  "scale": 0.12143416287738622,
+  "close": true
+}
