@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demon-like creatures/Micixhua.md",
+                "file": "Demon-like creatures/TBC Micixhua.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demon-like creatures/Micixhua - Istiyouilia.md",
+                "file": "Demon-like creatures/TBF Micixhua - Istiyouilia.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "a7b182758e0bd575",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demon-like creatures/Micixhua - Istiyouilia.md"
+                "file": "Demon-like creatures/TBC Micixhua.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demon-like creatures/Micixhua - Istiyouilia.md",
+                "file": "Demon-like creatures/TBC Micixhua.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demon-like creatures/Micixhua - Istiyouilia.md",
+                "file": "Demon-like creatures/TBC Micixhua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,10 +279,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f769e350b4e96f49",
+  "active": "0205af1288959847",
   "lastOpenFiles": [
-    "Demon-like creatures/Micixhua.md",
-    "Demon-like creatures/Micixhua - Istiyouilia.md",
+    "Demon-like creatures/TBF Micixhua - Istiyouilia.md",
+    "Demon-like creatures/TBC Micixhua.md",
     "God-esses & Patrons/Patrons (Warlock)/TBC The Masiosare.md",
     "God-esses & Patrons/Dieties/Deity of Change.md",
     "God-esses & Patrons/Dieties/---Deities.md",
