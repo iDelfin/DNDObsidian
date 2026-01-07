@@ -6,7 +6,6 @@
       {
         "id": "e2dd0ef3fb137689",
         "type": "tabs",
-        "dimension": 50.22208121827412,
         "children": [
           {
             "id": "56ca3f1f2e39462f",
@@ -17,7 +16,23 @@
                 "file": "God-esses & Patrons/Dieties/Deity of Change.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Deity of Change"
+            }
+          },
+          {
+            "id": "99ff4c4fa8a697ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tlapixki Forest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tlapixki Forest"
             }
           },
           {
@@ -29,7 +44,9 @@
                 "file": "Cities/Ojolco/TBF Metepetitlan.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "TBF Metepetitlan"
             }
           },
           {
@@ -41,7 +58,9 @@
                 "file": "Locations/Ojyolco/TBF Maxituak.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "TBF Maxituak"
             }
           },
           {
@@ -53,7 +72,9 @@
                 "file": "Locations/Ojyolco/TBF Kuautlan Naualisyotl.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "TBF Kuautlan Naualisyotl"
             }
           },
           {
@@ -65,7 +86,9 @@
                 "file": "God-esses & Patrons/Patrons (Warlock)/TBC The Masiosare.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "TBC The Masiosare"
             }
           },
           {
@@ -77,7 +100,9 @@
                 "file": "Demon-like creatures/TBC Micixhua.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "TBC Micixhua"
             }
           },
           {
@@ -89,7 +114,9 @@
                 "file": "Demon-like creatures/TBF Micixhua - Istiyouilia.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "TBF Micixhua - Istiyouilia"
             }
           },
           {
@@ -101,7 +128,9 @@
                 "file": "Campaigns/--Campaign _The Door of Origin_.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "--Campaign _The Door of Origin_"
             }
           },
           {
@@ -113,7 +142,9 @@
                 "file": "Religions/TBF The Scales.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "TBF The Scales"
             }
           },
           {
@@ -125,23 +156,26 @@
                 "file": "Myths, Legends & Stories/TBF Naui Tlapechtli.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "TBF Naui Tlapechtli"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
-        "id": "a7b182758e0bd575",
+        "id": "e142da7f7abcdeec",
         "type": "tabs",
-        "dimension": 49.77791878172589,
         "children": [
           {
-            "id": "99ff4c4fa8a697ec",
+            "id": "bec6391a553b27a1",
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -163,8 +197,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -179,7 +216,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -187,7 +226,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -195,7 +236,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -219,8 +262,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -229,8 +276,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demon-like creatures/TBC Micixhua.md"
-              }
+                "file": "Tlapixki Forest.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tlapixki Forest"
             }
           },
           {
@@ -239,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demon-like creatures/TBC Micixhua.md",
+                "file": "Tlapixki Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +299,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tlapixki Forest"
             }
           },
           {
@@ -256,10 +310,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demon-like creatures/TBC Micixhua.md",
+                "file": "Tlapixki Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tlapixki Forest"
             }
           }
         ]
@@ -271,6 +327,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -279,16 +336,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0205af1288959847",
+  "active": "99ff4c4fa8a697ec",
   "lastOpenFiles": [
+    "Cities/Ojolco/TBF Metepetitlan.md",
+    "Tlapixki Forest.md",
+    "Locations/Ojyolco/TBF Kuautlan Naualisyotl.md",
+    "God-esses & Patrons/Dieties/Deity of Change.md",
+    "Locations/Ojyolco/TBF Maxituak.md",
     "Demon-like creatures/TBF Micixhua - Istiyouilia.md",
     "Demon-like creatures/TBC Micixhua.md",
     "God-esses & Patrons/Patrons (Warlock)/TBC The Masiosare.md",
-    "God-esses & Patrons/Dieties/Deity of Change.md",
     "God-esses & Patrons/Dieties/---Deities.md",
-    "Locations/Ojyolco/TBF Maxituak.md",
-    "Cities/Ojolco/TBF Metepetitlan.md",
-    "Locations/Ojyolco/TBF Kuautlan Naualisyotl.md",
     "Campaigns/--Campaign _The Door of Origin_.md",
     "Religions/TBF The Scales.md",
     "Myths, Legends & Stories/TBF Naui Tlapechtli.md",
@@ -307,7 +365,6 @@
     "Cities/Torania/---Brogvona _City of Hope_.md",
     "God-esses & Patrons/Patrons (Warlock)/--Erythroier, The Blood Eater (Elitroier).md",
     "God-esses & Patrons/Patrons (Warlock)/The Hidden One.md",
-    "God-esses & Patrons/Patrons (Warlock)/The Fundamental.md",
     "Cities/Ojolco",
     "Images/Concept/TowerCollumn.jpg",
     "Images/Concept",
