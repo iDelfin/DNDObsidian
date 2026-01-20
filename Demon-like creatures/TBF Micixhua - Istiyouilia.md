@@ -5,7 +5,7 @@ Ist- (**istik**: Frio)
 
 ---
 
-aliases: ["Castigo frio sin piedad",]
+aliases: ["The cold with no mercy", "The Snowdemon", "The Snow with Eyes"]
 tags: [Demon, Evil]
 
 ---
@@ -20,6 +20,9 @@ tags: [Demon, Evil]
 
 ## Core Description
 The [TBC Micixhua](TBC%20Micixhua.md) that is located on the continent of [Torania](Torania.md), mainly on the south side as it lurks when snow storms arrive and hides amongst the wind. His main objective is to induce people with pure fear and absorb all pure magic that accumulates from the fear.
+
+# Perception
+It is seen as a bogyman, some say its a myth, some sure to have seen it, but only few have actually survived an encounter with it. The ones who did with the passage of time tended to think it was maybe just a dream, but, just in case, all children learn [The Snow with Eyes](The%20Snow%20with%20Eyes.md) nursery 
 
 ## Diet
 - Pure magic
