@@ -164,6 +164,9 @@ Look at [---The Castle of Old](---The%20Castle%20of%20Old.md) for details of the
 ## [Mission: Missing Magic]
 
 ---
+
+
+
 ### Bullet points development
 When the party gives the last item to [--Moranima Firestorm](--Moranima%20Firestorm.md), but the last one will not grant them any upgrade.
 
