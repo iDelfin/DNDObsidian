@@ -1,5 +1,5 @@
 ## Eula Haugen (a.k.a Eu) (She/Her) (Dwarf)
-This is the main bartender of the tavern of [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md). She is someone with great charisma and a warm personality. Always looking to know new people and make them feel like home and thanks to that she is a big source of information as she knows every single peace of information and gossip that enters the tavern. 
+This is the main bartender of the tavern of [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md). She is someone with great charisma and a warm personality. Always looking to know new people and make them feel like home and thanks to that she is a big source of information as she knows every single peace of information and gossip that enters the tavern. 
 ```
 |Age|Pronouns |     Height      | Sexuality | Civil State |
 |250| She/Her |1.37m or 4.5 feet| Straight  |   Divorced  |

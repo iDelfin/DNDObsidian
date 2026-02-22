@@ -1,5 +1,5 @@
 ## Gustav Jensen ([--The Flowing Sand](--The%20Flowing%20Sand.md)'s member | Hourglass) (He/Him) (Human) (Cleric)
-This character is the head member of [--The Flowing Sand](--The%20Flowing%20Sand.md)'s presence in [Torania](Torania.md) and a really charismatic person. He likes to walk around [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md) to help those in need of any type. He's also a vital piece in the protection of [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md) as he does protect it from evil living beings. One may find him sometimes in his church and other times in walking around [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md) or near the city. He is also responsible of giving basic training to those who want to be part of the religion in a more active way.
+This character is the head member of [--The Flowing Sand](--The%20Flowing%20Sand.md)'s presence in [Torania](Torania.md) and a really charismatic person. He likes to walk around [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md) to help those in need of any type. He's also a vital piece in the protection of [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md) as he does protect it from evil living beings. One may find him sometimes in his church and other times in walking around [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md) or near the city. He is also responsible of giving basic training to those who want to be part of the religion in a more active way.
 ```
 |Age|Pronouns |     Height      | Sexuality | Civil State |
 |35 | He/Him  |1.75m or 5.7 feet| Straight  |   Single    |
@@ -10,7 +10,7 @@ This character is the head member of [--The Flowing Sand](--The%20Flowing%20Sand
 - He became a Crystal Grain at the age of 17 and has been part of [--The Flowing Sand](--The%20Flowing%20Sand.md) ever since...
 - Did his basic training in the [---Fort of Time](---Fort%20of%20Time.md) and later was stationed on [---The kingdom of Saxxfrich](---The%20kingdom%20of%20Saxxfrich.md)
 - After some training he raise the ranks and eventually, thanks to it's great dedication and various achievements to [--The Flowing Sand](--The%20Flowing%20Sand.md) he became an 'Hourglass' and decided to go to [Torania](Torania.md).
-- Being the only 'Hourglass' in this continent, he became the head of [--The Flowing Sand](--The%20Flowing%20Sand.md) in [Torania](Torania.md) and founded it's first church in [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md).
+- Being the only 'Hourglass' in this continent, he became the head of [--The Flowing Sand](--The%20Flowing%20Sand.md) in [Torania](Torania.md) and founded it's first church in [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md).
 
 ### Education
 - Highly educated in the topic of Religion and History thanks to his background with [--The Flowing Sand](--The%20Flowing%20Sand.md)
@@ -22,8 +22,8 @@ This character is the head member of [--The Flowing Sand](--The%20Flowing%20Sand
 - Has a theory that by reactivating the gem, one will find the answer of how it works or at least some origin.
 
 ### Employment
-- The head of [--The Flowing Sand](--The%20Flowing%20Sand.md) in [Torania](Torania.md) so he receives income from the organization and form the city of [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md) as service to the city.
-- Manages the security of [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md) as they also act as security in here.
+- The head of [--The Flowing Sand](--The%20Flowing%20Sand.md) in [Torania](Torania.md) so he receives income from the organization and form the city of [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md) as service to the city.
+- Manages the security of [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md) as they also act as security in here.
 
 ### Accomplishments & Achievements
 - Established the strong relation that [--The Flowing Sand](--The%20Flowing%20Sand.md) and [---The kingdom of Saxxfrich](---The%20kingdom%20of%20Saxxfrich.md) has
@@ -40,7 +40,7 @@ This character is the head member of [--The Flowing Sand](--The%20Flowing%20Sand
 
 ### Afiliations & Allies
 - Is a highly important member of [--The Flowing Sand](--The%20Flowing%20Sand.md)
-- Good relation with [ENH Reimund Leaf](ENH%20Reimund%20Leaf.md) as he supports the presence of [--The Flowing Sand](--The%20Flowing%20Sand.md) in [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md)
+- Good relation with [ENH Reimund Leaf](ENH%20Reimund%20Leaf.md) as he supports the presence of [--The Flowing Sand](--The%20Flowing%20Sand.md) in [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md)
 - All active members of [--The Flowing Sand](--The%20Flowing%20Sand.md) in [Torania](Torania.md)
 
 ### Disagrements/Hates

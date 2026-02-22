@@ -22,4 +22,4 @@ He is the part of the main council of [--The Eye of Punishment](--The%20Eye%20of
 ### Current Goals
 * Know about the wellbeing of his daughter (will be completed)
 * Learn more about the blood gem if one can 
-* Obtain the big blood gem located at the library of [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md)
+* Obtain the big blood gem located at the library of [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md)

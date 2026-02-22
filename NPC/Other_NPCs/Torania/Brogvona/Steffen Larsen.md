@@ -1,6 +1,6 @@
 ## Steffen Larsen (a.k.a Stef only friends) (He/Him) (Kenku)
 
-This Caracter is the potion keeper of the city of [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md) which is located to the south of the blacksmith. He is a very skillful alchemist a potion maker that has the motivation of discovering and learning about new recipes. His main motivation is to make a potion using the flower head of a Skrifralla, but can't gets his hands on it because of it's difficulty of harvesting it. That is his great dream.
+This Caracter is the potion keeper of the city of [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md) which is located to the south of the blacksmith. He is a very skillful alchemist a potion maker that has the motivation of discovering and learning about new recipes. His main motivation is to make a potion using the flower head of a Skrifralla, but can't gets his hands on it because of it's difficulty of harvesting it. That is his great dream.
 
 | Age | Pronouns | Height          | Sexuality | Civil State |
 | --- | -------- | --------------- | --------- | ----------- |
@@ -8,7 +8,7 @@ This Caracter is the potion keeper of the city of [---Brogvona 'City of Hope'](-
 
 ![SteffenLarsenPotionKeeper](SteffenLarsenPotionKeeper.jpg)
 ## Family
-- His parents lives in [---Brogkunnusta 'City of Knowledge'](---Brogkunnusta%20'City%20of%20Knowledge'.md) as schoolers trying to find a cure or solution to Kenku's curse
+- His parents lives in [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md) as schoolers trying to find a cure or solution to Kenku's curse
 - Has a sister traveling the woods as a druid and following [---The Goddess of Life](---The%20Goddess%20of%20Life.md).
 
 ## Connections
@@ -43,7 +43,7 @@ This Caracter is the potion keeper of the city of [---Brogvona 'City of Hope'](-
 - Friday
 	- Opens shop
 	- Works and experiments in the shop
-	- Closes shop and goes to the [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md) base of [--The Eye of Punishment](--The%20Eye%20of%20Punishment.md) to deliver some potions they asked for. He is very vigilant about this and will do everything in his power for people to not know what he is doing.
+	- Closes shop and goes to the [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md) base of [--The Eye of Punishment](--The%20Eye%20of%20Punishment.md) to deliver some potions they asked for. He is very vigilant about this and will do everything in his power for people to not know what he is doing.
 - Saturday
 	- Opens shop late for some time
 	- Works in the shop but closes early

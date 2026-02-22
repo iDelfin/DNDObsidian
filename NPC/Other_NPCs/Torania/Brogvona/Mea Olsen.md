@@ -1,6 +1,6 @@
 ## Mea Olsen (a.k.a Mea) (She/Her) (Half-orc)
 
-This character is the blacksmith of the city of [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md) and a great one for that matter, so great that they are considered the best one in all of [Torania](Torania.md). She lives in one of the small houses next to her shop. A very dedicated person to her work and will focus mostly on it which is a sign of defensive mechanism of ignoring something of her past.
+This character is the blacksmith of the city of [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md) and a great one for that matter, so great that they are considered the best one in all of [Torania](Torania.md). She lives in one of the small houses next to her shop. A very dedicated person to her work and will focus mostly on it which is a sign of defensive mechanism of ignoring something of her past.
 
 ```
 |Age |Pronouns |    Height     | Sexuality | Civil State |
@@ -33,7 +33,7 @@ This character is the blacksmith of the city of [---Brogvona 'City of Hope'](---
 	- Closes shop and goes home
 - Wednesday
 	- Travels to the northern docks to receive shipment of minerals and metals or to leave products for exportation
-	- Returns to [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md) and stops in the shop to leaves her wagon next to the shop and goes to her house
+	- Returns to [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md) and stops in the shop to leaves her wagon next to the shop and goes to her house
 	- Rests in her house
 - Thursday
 	- Opens shop

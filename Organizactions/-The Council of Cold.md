@@ -15,7 +15,7 @@ The purpose of this council is to expand the cities in [Torania](Torania.md) and
 - [--No fake medicine allowed](--No%20fake%20medicine%20allowed.md)
 - They want to find a new centralize place to talk
 - Proplems with the Religion of God of Punishment
-- Investigation on [---The Ice Forest](---The%20Ice%20Forest.md)
+- Investigation on [TBR The Ice Forest](TBR%20The%20Ice%20Forest.md)
 - Exploration of the status of [---The Castle of Old](---The%20Castle%20of%20Old.md)
 - Wierd sigils sighted on the Ice Desert
 

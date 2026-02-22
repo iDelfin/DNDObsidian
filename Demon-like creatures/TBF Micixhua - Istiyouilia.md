@@ -39,8 +39,8 @@ This Micixhua focuses on the induction of **Fear**
 - When the pray is physically vulnerable it absorbs all pure magic from it leaving behind a cocoon of what once was a living being and covers it in snow, like a snowman, with a smile like Istiyouilia
 
 ## Location
-- South and East of [---Brogkunnusta _City of Knowledge_](---Brogkunnusta%20_City%20of%20Knowledge_.md)
-- South of [---Brogmog _City of Courage_](---Brogmog%20_City%20of%20Courage_.md)
+- [TBF Frosjöll](TBF%20Frosjöll.md)
+- South of [---Brogfrior _City of Peace_](---Brogfrior%20_City%20of%20Peace_.md)
 
 ## Stats
 TBD

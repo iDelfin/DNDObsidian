@@ -32,18 +32,18 @@ ___
 This city works as a connection of all trading that happens between all the cities of [Torania](Torania.md) as well as a main hub for all of [Torania](Torania.md) and any other cities on other continents by means of the `Docks of Strong`. 
 ### Exports
 - Fish & seafood (locally hunted)
-	- [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md) -> [---Brogmog 'City of Courage'](---Brogmog%20'City%20of%20Courage'.md)
-	- [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md) -> [---Brogfrior 'City of Peace'](---Brogfrior%20'City%20of%20Peace'.md) -> [---Brogkunnusta 'City of Knowledge'](---Brogkunnusta%20'City%20of%20Knowledge'.md)
-	- [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md) -> `Docks of Strong`
+	- [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md) -> [---Brogmog _City of Courage_](---Brogmog%20_City%20of%20Courage_.md)
+	- [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md) -> [---Brogfrior _City of Peace_](---Brogfrior%20_City%20of%20Peace_.md) -> [---Brogkunnusta _City of Knowledge_](---Brogkunnusta%20_City%20of%20Knowledge_.md)
+	- [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md) -> `Docks of Strong`
 - Raw wood & worked (locally gathered)
-	- [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md) -> [---Brogfrior 'City of Peace'](---Brogfrior%20'City%20of%20Peace'.md) ->[---Brogkunnusta 'City of Knowledge'](---Brogkunnusta%20'City%20of%20Knowledge'.md)
-	- [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md) -> `Docks of Strong`
+	- [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md) -> [---Brogfrior _City of Peace_](---Brogfrior%20_City%20of%20Peace_.md) -> [---Brogkunnusta _City of Knowledge_](---Brogkunnusta%20_City%20of%20Knowledge_.md)
+	- [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md) -> `Docks of Strong`
 - Fruits & vegetables (locally Grown)
-	- [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md) -> [---Brogmog 'City of Courage'](---Brogmog%20'City%20of%20Courage'.md)
-	- [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md) -> [---Brogfrior 'City of Peace'](---Brogfrior%20'City%20of%20Peace'.md) -> [---Brogkunnusta 'City of Knowledge'](---Brogkunnusta%20'City%20of%20Knowledge'.md)
+	- [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md) -> [---Brogmog _City of Courage_](---Brogmog%20_City%20of%20Courage_.md)
+	- [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md) -> [---Brogfrior _City of Peace_](---Brogfrior%20_City%20of%20Peace_.md) -> [---Brogkunnusta _City of Knowledge_](---Brogkunnusta%20_City%20of%20Knowledge_.md)
 ### Imports
 - Meats & Chickens
-	- [---Brogmog 'City of Courage'](---Brogmog%20'City%20of%20Courage'.md) -> [---Brogvona 'City of Hope'](---Brogvona%20'City%20of%20Hope'.md)
+	- [---Brogmog _City of Courage_](---Brogmog%20_City%20of%20Courage_.md) -> [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md)
 	- 
 
 ---
