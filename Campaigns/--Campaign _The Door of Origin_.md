@@ -146,7 +146,9 @@ Look at [---The Castle of Old](---The%20Castle%20of%20Old.md) for details of the
 		- [Arcana 10] The rune of the table seams like its a reviling rune, a rune to see some invisibles forces of nature. Commonly used to see stuff like invisible elements, auras of good or evil. Their is a difference in this rune, it was modified to see more
 		- [Arcana 20] Additional to the 10 info one will notice the purpose of the rune. It is to revile the flow of magic into living beings.
 	- On the far side of the lab there lies a table with various alchemic tools and some research papers (See Moranima's research papers p.2-4,p.6)
-		- [Investigation 10] One will find some ingredients for a healing potion (if 20, ingredients for 2 healing potions)
+		- [Investigation 10] 
+			- One will find some ingredients for a healing potion (if 20, ingredients for 2 healing potions)
+			- One will also find a mysterious arcane like glow under the table. A small DIY cabinet can be found containing [Shard of The Garden](Shard%20of%20The%20Garden.md)
 		- One will also see a glowing orb floating on top of a table. Magic gathered and concentrated into one place. When touched the orb will flow into the arm of the one who contacted it and will level up. The orb will shrink ({size of party} uses)
 	- On the south side, there will be a table filled with unknown runes and two bookshelf filled to the brim.
 		- [Arcana 15] The runes are those of feeling amplifiers. When touched one will have amplified a feeling depending on the runes touch. 15 is 1 identified rune, 16 is 2 runes and so on until 20 and the 6 runes.

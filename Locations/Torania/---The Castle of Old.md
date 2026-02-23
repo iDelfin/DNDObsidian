@@ -136,7 +136,7 @@ Inside the castle one will find three different puzzles witch are necessary to c
 
 ---
 ### The music puzzle
-This room will have the feeling of a study room. It has a lot of books in bookshelf  and on the far side of the room one will find a resting place with some couches, a fireplace and a piano. In the fireplace one can find some things of interest as one will see above it a frame with a music sheet containing notes and surrounding it 3 unlit torches (on the lift, right and top). Other stuff that the group may find in the room will be instruments laying on the floor near the fire place like a lute and a broken violin.
+This room will have the feeling of a study room. It's filled with bookshelf and on the far side of the room one will find a resting place with some couches, a fireplace and a piano. In the fireplace one can find some things of interest as one will see above it a frame with a music sheet containing notes and surrounding it 3 unlit torches (on the lift, right and top). Other stuff that the group may find in the room will be instruments laying on the floor near the fire place like a lute and a broken violin.
 
 #### Solution
 The solution of this puzzles is to play the song that is in the frame and it must be 3 instruments at the same time.
@@ -149,7 +149,7 @@ If the players are taking to long to figure the solution out, a small rock will 
 This song, if played by three as well at any moment or in the same round, any allies will gain a 1d4 psychic damage for it's next attack
 
 #### Notes
-* Every time a note is played, a light of the torches will lit up
+* Every time a note is played, a torch will lit up
 * If a new instrument is played, it'll ignite a torch that has not been lit and it'll have a small explosion of ignition
 	* If all torches have been lit, it'll replace the oldest instrument.
 

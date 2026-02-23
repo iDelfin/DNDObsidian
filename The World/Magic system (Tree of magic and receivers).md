@@ -2,7 +2,7 @@
 The origin of the magic in the world and how it works can be explained as various things working together and the personality of the individual that has the connection to magic.
 
 # Magical origin
-For one to have the ability to use magic there are many things that must work together to grand magic wilding and others that will modify the manifestation and use of it. Some may amplify the output, speed the output, or even free it without control. Every property plays a role and the work of each part brings what we know as magic.
+For one to have the ability to use magic there are many things that must work together to grant magic wilding and others that will modify the manifestation and use of it. Some may amplify the output, speed the output, or even free it without control. Every property plays a role and the work of each part brings what we know as magic.
 
 # Innerworkings of magic
 There are many parts that must work for an individual to use and manipulate magic. These innerworkings can be separated into 2 phases, the *Kuauteponaualotl phase* and the *Xochiyoua phase*. The basic difference between each phase is where it comes from. The Kuauteponaualotl phase happens in the Kuauteponaualotl tree and *Xochiyoua phase* happens in the receiving end of the process.
@@ -24,7 +24,7 @@ There are many parts that must work for an individual to use and manipulate magi
 		- Fairy
 		- Shifter
 		- Sorcerers 
-	- There is a way for creatures damage their flower and that is by being effected by [Flower withering](Flower%20withering.md)
+	- There is a way to damage a flower and that is by being affected by [Flower withering](Flower%20withering.md)
 ## Xochiyoua phase
 - **Receivers of magic:** Also known as feelings, they are responsible for receiving what is being sent by the flower of Kuauteponaualot. They can amplify, speed up, or change "width" of the flow of magic. It is confused by the origin of magic
 	- The concentration of a feeling will apply the corresponding effect to the flow of magic

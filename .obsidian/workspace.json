@@ -28,26 +28,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ojyolco/Ejekapotlan/TBD Ejekapotlan.md",
+                "file": "Campaigns/--Campaign _The Door of Origin_.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TBD Ejekapotlan"
+              "title": "--Campaign _The Door of Origin_"
             }
           },
           {
-            "id": "933a307598bc52f4",
+            "id": "e3fdf0a2b90f9cfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cities/Ojolco/TBF Metepetitlan.md",
+                "file": "Items/TBF Moranima Research Papers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TBF Metepetitlan"
+              "title": "TBF Moranima Research Papers"
             }
           },
           {
@@ -56,12 +56,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Torania/Regions/Hlýrr Íss/TBf Hlýrr Íss.md",
+                "file": "The World/Magic system (Tree of magic and receivers).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TBf Hlýrr Íss"
+              "title": "Magic system (Tree of magic and receivers)"
+            }
+          },
+          {
+            "id": "933a307598bc52f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Torania/---The Castle of Old.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "---The Castle of Old"
             }
           },
           {
@@ -134,7 +148,8 @@
               "title": "TBF Íssvöllr Farm"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "36063c3087782473",
@@ -309,15 +324,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56ca3f1f2e39462f",
+  "active": "e3fdf0a2b90f9cfa",
   "lastOpenFiles": [
+    "The World/Magic system (Tree of magic and receivers).md",
+    "The World/Kuauteponaualotl.md",
+    "The World/Flower withering.md",
+    "The World/Feelings XD.md",
+    "The World/---Emotional Manipulation Magic.md",
+    "Locations/Torania/Regions/Hlýrr Íss/TBf Hlýrr Íss.md",
+    "Locations/Torania/---The Castle of Old.md",
+    "Items/TBF Moranima Research Papers.md",
+    "Items/Moranima's diary.md",
+    "Campaigns/--Campaign _The Door of Origin_.md",
+    "Cities/Ojolco/TBF Metepetitlan.md",
+    "Campaigns/--Campagne 4 XD.md",
+    "Campaigns/--Campagne _The Blood Moon Gem_.md",
     "Locations/Ojyolco/Ejekapotlan/TBD Ejekapotlan.md",
+    "Locations/Ojyolco/Navalotl Forest/desktop.ini",
     "Locations/Ojyolco/Tlapixki",
     "Locations/Ojyolco/Ejekapotlan",
     "Locations/Ojyolco/Navalotl Forest",
     "Locations/Ojyolco/Maxituak",
-    "Locations/Torania/Regions/Hlýrr Íss/TBf Hlýrr Íss.md",
-    "Cities/Ojolco/TBF Metepetitlan.md",
     "Continent/Ojyolco.md",
     "Demon-like creatures/TBF Micixhua - Istiyouilia.md",
     "Locations/Torania/Regions/Frosjöll/TBF Íssvöllr Farm.md",
@@ -327,25 +354,14 @@
     "Cities/Torania/---Brogfrior _City of Peace_.md",
     "Myths, Legends & Stories/Tree of vitality, tree of brutality.md",
     "The World/Races of the world.md",
-    "The World/Magic system (Tree of magic and receivers).md",
-    "The World/Flower withering.md",
-    "The World/Kuauteponaualotl.md",
     "Locations/Ojyolco/---The Cap Forest.md",
     "Locations/Ojyolco/Navalotl Forest/---The Navalotl Forest.md",
     "Locations/Ojyolco/Maxituak/TBF The Tree of Life.md",
-    "Locations/Ojyolco/Tlapixki/Tlapixki Forest.md",
-    "Locations/Ojyolco/Maxituak/TBF Maxituak.md",
-    "Locations/Ojyolco/Maxituak/TBF Kuautlan Naualisyotl.md",
-    "Continent/Torania.md",
-    "Locations/Torania/Regions/Frosteinn/TBF Stjarna Ruins.md",
-    "Campaigns/--Campaign _The Door of Origin_.md",
-    "Religions/TBF The Scales.md",
     "Locations/Torania/Regions/Frosjöll",
     "Locations/Torania/Regions/Horn Heimsins",
     "Locations/Torania/Regions/Hlýrr Íss",
     "Locations/Torania/Regions/Frosteinn",
     "Locations/Torania/Regions",
-    "Demon-like creatures",
     "Images/Concept/TowerCollumn.jpg",
     "Images/Local Maps/Torania/Other Locations/Castle of old/CastleInside - lvl1 notes.png",
     "Images/Local Maps/Torania/Other Locations/Castle of old/MoranimaLabHutCOF.png",
