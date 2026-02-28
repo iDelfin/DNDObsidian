@@ -166,7 +166,8 @@ Look at [---The Castle of Old](---The%20Castle%20of%20Old.md) for details of the
 ## [Mission: Missing Magic]
 
 ---
-
+## Mission: Mystery in Shards
+---
 
 
 ### Bullet points development

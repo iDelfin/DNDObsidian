@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myths, Legends & Stories/Tree of vitality, tree of brutality.md",
+                "file": "Homebrew Stuff - Misc/Magic items/Shard of The Garden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tree of vitality, tree of brutality"
+              "title": "Shard of The Garden"
             }
           },
           {
@@ -149,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "36063c3087782473",
@@ -198,7 +198,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kuauteponaualotl",
+                "query": "shard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -324,8 +324,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3fdf0a2b90f9cfa",
+  "active": "44d833d9dea1067f",
   "lastOpenFiles": [
+    "Homebrew Stuff - Misc/Magic items/Shard of The Garden.md",
+    "Campaigns/--Campaign _The Door of Origin_.md",
+    "Items/TBF Moranima Research Papers.md",
+    "Myths, Legends & Stories/Tree of vitality, tree of brutality.md",
     "The World/Magic system (Tree of magic and receivers).md",
     "The World/Kuauteponaualotl.md",
     "The World/Flower withering.md",
@@ -333,9 +337,7 @@
     "The World/---Emotional Manipulation Magic.md",
     "Locations/Torania/Regions/Hlýrr Íss/TBf Hlýrr Íss.md",
     "Locations/Torania/---The Castle of Old.md",
-    "Items/TBF Moranima Research Papers.md",
     "Items/Moranima's diary.md",
-    "Campaigns/--Campaign _The Door of Origin_.md",
     "Cities/Ojolco/TBF Metepetitlan.md",
     "Campaigns/--Campagne 4 XD.md",
     "Campaigns/--Campagne _The Blood Moon Gem_.md",
@@ -349,14 +351,12 @@
     "Demon-like creatures/TBF Micixhua - Istiyouilia.md",
     "Locations/Torania/Regions/Frosjöll/TBF Íssvöllr Farm.md",
     "Locations/Torania/Regions/TBF Dalrhuxan.md",
-    "The Snow with Eyes.md",
+    "Myths, Legends & Stories/The Snow with Eyes.md",
     "Locations/Torania/Regions/Frosjöll/TBF Frosjöll.md",
     "Cities/Torania/---Brogfrior _City of Peace_.md",
-    "Myths, Legends & Stories/Tree of vitality, tree of brutality.md",
     "The World/Races of the world.md",
     "Locations/Ojyolco/---The Cap Forest.md",
     "Locations/Ojyolco/Navalotl Forest/---The Navalotl Forest.md",
-    "Locations/Ojyolco/Maxituak/TBF The Tree of Life.md",
     "Locations/Torania/Regions/Frosjöll",
     "Locations/Torania/Regions/Horn Heimsins",
     "Locations/Torania/Regions/Hlýrr Íss",

@@ -52,7 +52,7 @@ pg.1
 - Reviling Rune
 - Controlled magic
 - My arm
-- 
+
 **Objective**: The analysis of magical flow as a baseline
 
 **Hypothesis**: I'll see my blood flow in my arm as normal and when I cast Produce Flame, I'll see specs of magic flowing towards my hands though my veins.
@@ -81,3 +81,20 @@ pg. 2
 
 ---
 ---
+
+**Date**: ?
+**Title**: Heart and mind connection
+
+**Resources/Ingredients**:
+- Reviling Rune
+- Controlled magic
+- My body
+
+**Objective**: Looking at the details of the flow between the heart and mind
+
+**Hypothesis**: There is some sort of secondary magical source in the mind, It has something to do with the intelligence of the individual.
+
+**Prep**
+I have a slight problem with this test and it's the fact that I don't know how I can make it possible. To do this I need to lay down on the table and look at my torso and my head at the same time as a third perspective. After remembering some lessons from the university, there was a spell that I could use to see my whole body, "Clairvoyance". I found the scroll and so I lay down on the table, inside the Rune, and activate the scroll to see myself in a third perspective.
+
+**Development**
