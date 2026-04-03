@@ -15,7 +15,7 @@ nauali- (nauali: Mago)
 ---
 ---
 ## Small Summery
-A place where all druids and followers of [---The Goddess of Life](---The%20Goddess%20of%20Life.md) reunite and hide from the horrors that civilization has done to nature. Protected by the constant mist found in [TBF Maxituak](TBF%20Maxituak.md) and a direct route to exit though the [[Tlapixki Forest]].
+A place where all druids and followers of [---The Goddess of Nature](---The%20Goddess%20of%20Nature.md) reunite and hide from the horrors that civilization has done to nature. Protected by the constant mist found in [TBF Maxituak](TBF%20Maxituak.md) and a direct route to exit though the [[Tlapixki Forest]].
 
 ## Area description
 - A thin open space that surrounds one of the many giants trees and people concentrate in this area

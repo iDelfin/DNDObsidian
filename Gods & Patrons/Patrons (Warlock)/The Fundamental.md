@@ -1,0 +1,1 @@
+The "" that connects to all intelligent being as it is responsible for the presence of consciousness, the presence of natural energy which is important as without it the [---The Goddess of Nature](---The%20Goddess%20of%20Nature.md) wouldn't have power over all living being.

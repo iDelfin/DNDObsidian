@@ -1,3 +1,16 @@
+
+---
+Tag: []
+Category: [Continent]
+Group: ["Continent of Torania"]
+
+---
+---
+
+**Flag/banner/emblem/logo**: 
+
+---
+
 ## Regions
 - [TBF Frosjöll](TBF%20Frosjöll.md)
 - [TBF Frosteinn](TBF%20Frosteinn.md)
@@ -11,11 +24,7 @@
 - [---Brogfrior _City of Peace_](---Brogfrior%20_City%20of%20Peace_.md)
 ## Important locations
 - [---The Castle of Old](---The%20Castle%20of%20Old.md)
-- [TBR The Ice Forest](TBR%20The%20Ice%20Forest.md)
-- [---Bruniauga](---Bruniauga.md)
+- [TBR The Ice Forest (Depricated)](TBR%20The%20Ice%20Forest%20(Depricated).md)
+- [TBC Bruniauga](TBC%20Bruniauga.md)
 - [-The Door of fjölkyngi (magic Viking)](-The%20Door%20of%20fjölkyngi%20(magic%20Viking).md)
 - [--- Layer of Riston](---%20Layer%20of%20Riston.md)
-
-
-## Group
-Continent of Torania

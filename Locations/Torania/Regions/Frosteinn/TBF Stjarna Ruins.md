@@ -1,7 +1,10 @@
 Stjarna (Stjarna: Star)
 
-### Tag: [Torania, Lore]
+---
+Tag: [Torania, Lore]
+Category: [Ruins]
+Group: ["Continent of Torania"]
 
-### Category: [Ruins]
+---
 
-Continent of Torania
+f

@@ -1,5 +1,15 @@
-## Group
-Continent of Inglomass
+
+---
+Tag: []
+Category: [Continent]
+Group: ["Continent of Inglomass"]
+
+---
+---
+
+**Flag/banner/emblem/logo**: 
+
+---
 
 ## Important locations
 [---Mountain Lightsky](---Mountain%20Lightsky.md)

@@ -9,7 +9,7 @@ This Caracter is the potion keeper of the city of [---Brogvona _City of Hope_](-
 ![SteffenLarsenPotionKeeper](SteffenLarsenPotionKeeper.jpg)
 ## Family
 - His parents lives in [---Brogvona _City of Hope_](---Brogvona%20_City%20of%20Hope_.md) as schoolers trying to find a cure or solution to Kenku's curse
-- Has a sister traveling the woods as a druid and following [---The Goddess of Life](---The%20Goddess%20of%20Life.md).
+- Has a sister traveling the woods as a druid and following [---The Goddess of Nature](---The%20Goddess%20of%20Nature.md).
 
 ## Connections
 - Has a friendly relation with [Koshachiy Guora](Koshachiy%20Guora.md) as she brings him exotic plants from around [Torania](Torania.md) for his potions

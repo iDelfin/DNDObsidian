@@ -1,4 +1,17 @@
-### tags: [Cities]
+
+---
+Tag: [#Cold, #Capital]
+Category: [Cities]
+Group: ["Continent of Torania"]
+
+---
+---
+**Location**: [Torania](Torania.md), [TBF Frosteinn](TBF%20Frosteinn.md)
+**Languages**:
+**Title of the Leader**:
+**Flag/banner/emblem**:  ...
+
+---
 
 This city is the capital of the continent of [Torania](Torania.md) and the biggest city of it. Most of the trades that happen in [Torania](Torania.md) happens in this city. This is because the docks to the sea is also part of the city and most trades happen here. One will find various places where one can buy what they need, from a very specific ingredient for a potion, to all your basic needs to live.
 
@@ -48,7 +61,7 @@ This city works as a connection of all trading that happens between all the citi
 
 ---
 ### Religion
-Most of the people here follow [--The Flowing Sand](--The%20Flowing%20Sand.md) but one may find followers of [--The Eye of Punishment](--The%20Eye%20of%20Punishment.md) as they have a small base in here.
+Most of the people here follow [TBF The Flowing Sand](TBF%20The%20Flowing%20Sand.md) but one may find followers of [--The Eye of Punishment](--The%20Eye%20of%20Punishment.md) as they have a small base in here.
 
 ---
 ---

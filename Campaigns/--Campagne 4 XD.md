@@ -1,3 +1,11 @@
+
+---
+Tag: []
+Category: []
+Group: ["Campagnes"]
+
+---
+
 # Basic idea
 A group of people will be tasked to find the location of the doors to the places that connect the material plane to the `feywild` by a scholar of... This scholar has had the obsession of the existence of these doors for a long time and has dedicated his life to it. He is a very curious and loves lore like no other. After going to different points of interest and gaining knowledge to access the doors, the group will be task to go and open the door with the company of the scholar. After they enter a whisper will be heard by the party, or any person with a divine connection will hear it form their god, saying to no trust the scholar and to defeat the Strange Enemy that is to come. The First Boss will the the scholar with the objective of stalling and wasting the groups resources After some time (half-health), a Masiosare will emerge from the door and the scholar will be absorbed by it. The final boss will be a Masiosare.
 

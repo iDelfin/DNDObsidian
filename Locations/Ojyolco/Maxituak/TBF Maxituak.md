@@ -1,7 +1,7 @@
 
 ---
 
-### Tag: [Geography, Biome]
+Tag: [#Geography, #Biome]
 
 **Location**: [Ojyolco](Ojyolco.md)
 **Weather**: Rain, tropical, humid
