@@ -141,7 +141,7 @@
       }
     },
     {
-      "query": "\"Families\"",
+      "query": "tag:#NPC  ",
       "color": {
         "a": 1,
         "rgb": 720947
@@ -172,6 +172,6 @@
   "repelStrength": 13.4093129273852,
   "linkStrength": 0.794456555590159,
   "linkDistance": 65,
-  "scale": 0.04231590268975955,
+  "scale": 0.059326171875000396,
   "close": true
 }

@@ -1,11 +1,21 @@
-## Gustav Jensen ([The Flowing Sand](The%20Flowing%20Sand.md)'s member | Hourglass) (He/Him) (Human) (Cleric)
-This character is the head member of [The Flowing Sand](The%20Flowing%20Sand.md)'s presence in [Torania](Torania.md) and a really charismatic person. He likes to walk around [Brogvona](Brogvona.md) to help those in need of any type. He's also a vital piece in the protection of [Brogvona](Brogvona.md) as he does protect it from evil living beings. One may find him sometimes in his church and other times in walking around [Brogvona](Brogvona.md) or near the city. He is also responsible of giving basic training to those who want to be part of the religion in a more active way.
-```
-|Age|Pronouns |     Height      | Sexuality | Civil State |
-|35 | He/Him  |1.75m or 5.7 feet| Straight  |   Single    |
-```
-![GustavJensenHourglass](GustavJensenHourglass.jpg)
+---
+tags:
+  - NPC
+  - Priest
+Nicknames:
+Race: Human
+Class: Cleric
+Age: 35
+Hight: 1.75
+Pronouns: He/Him
+Lvl:
+Personality: Jolly and devoted
+Sexuality: Asexual
+Location: "[[Brogvona]]"
+---
 
+(Hourglass) (He/Him) (Human) (Cleric)
+This character is the head member of [The Flowing Sand](The%20Flowing%20Sand.md)'s presence in [Torania](Torania.md) and a really charismatic person. He likes to walk around [Brogvona](Brogvona.md) to help those in need of any type. He's also a vital piece in the protection of [Brogvona](Brogvona.md) as he does protect it from evil living beings. One may find him sometimes in his church and other times in walking around [Brogvona](Brogvona.md) or near the city. He is also responsible of giving basic training to those who want to be part of the religion in a more active way.
 ### Personal history
 - He became a Crystal Grain at the age of 17 and has been part of [The Flowing Sand](The%20Flowing%20Sand.md) ever since...
 - Did his basic training in the [Fort of Time](Fort%20of%20Time.md) and later was stationed on [The Kingdom of Saxxfrich](The%20Kingdom%20of%20Saxxfrich.md)
@@ -40,7 +50,7 @@ This character is the head member of [The Flowing Sand](The%20Flowing%20Sand.md)
 
 ### Afiliations & Allies
 - Is a highly important member of [The Flowing Sand](The%20Flowing%20Sand.md)
-- Good relation with [Reimund Leaf](Reimund%20Leaf.md) as he supports the presence of [The Flowing Sand](The%20Flowing%20Sand.md) in [Brogvona](Brogvona.md)
+- Good relation with [Reimund Longstrike](Reimund%20Longstrike.md) as he supports the presence of [The Flowing Sand](The%20Flowing%20Sand.md) in [Brogvona](Brogvona.md)
 - All active members of [The Flowing Sand](The%20Flowing%20Sand.md) in [Torania](Torania.md)
 
 ### Disagrements/Hates
@@ -55,9 +65,4 @@ This character is the head member of [The Flowing Sand](The%20Flowing%20Sand.md)
 
 ## The Blood Moon Gem
 - He will have a really knowledgeable about this blood gems which is a little worrying as it is a really disgusting magic 
-
-## Statblock
-
-## Group
-Continent of Torania
 

@@ -37,20 +37,6 @@
             }
           },
           {
-            "id": "874685b7e57baefc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Inglomass/Framtid/Cities/Morfyr.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Morfyr"
-            }
-          },
-          {
             "id": "91aa253c8f1fc7a7",
             "type": "leaf",
             "state": {
@@ -65,54 +51,54 @@
             }
           },
           {
-            "id": "df768a5b723f8d2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ojyolco/Ejekapotlan/Ejekapotlan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejekapotlan"
-            }
-          },
-          {
-            "id": "b01447aad970b681",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Inglomass/Gesomnrīce forest.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gesomnrīce forest"
-            }
-          },
-          {
             "id": "e6cde57ae43767eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kingdoms/The Kingdom of Wexington.md",
+                "file": "Kingdoms/The Kingdom of Arangtor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Kingdom of Wexington"
+              "title": "The Kingdom of Arangtor"
             }
           },
           {
-            "id": "8a5fb94048b4b139",
+            "id": "df768a5b723f8d2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lārēow.md",
+                "file": "NPC/Important_NPC/Torania/Reimund Longstrike.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reimund Longstrike"
+            }
+          },
+          {
+            "id": "8917c10e1d4b66ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Important_NPC/Torania/Moranima Firestorm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Moranima Firestorm"
+            }
+          },
+          {
+            "id": "dbb888c15c66eeb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Myths, Legends & Stories/Lārēow.md",
                 "mode": "source",
                 "source": false
               },
@@ -121,16 +107,17 @@
             }
           },
           {
-            "id": "80f20b758a3e20fc",
+            "id": "8a5fb94048b4b139",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Maps/Inglomass/Leaflet Inglomass.base",
-                "viewName": "Inglomass Pin"
+                "file": "Locations/Inglomass/Bannoque.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-map",
-              "title": "Leaflet Inglomass"
+              "icon": "lucide-file",
+              "title": "Bannoque"
             }
           },
           {
@@ -147,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       },
       {
         "id": "78a1c9bf30431f99",
@@ -326,20 +313,34 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "80f20b758a3e20fc",
+  "active": "c8b76430ea9be6a5",
   "lastOpenFiles": [
-    "Images/Battlemaps/Torania/Brogvona_overworld_1763444957_288.png",
+    "NPC/Important_NPC/Torania/Moranima Firestorm.md",
+    "NPC/Important_NPC/Torania/Reimund Longstrike.md",
+    "Kingdoms/The Kingdom of Arangtor.md",
+    "Myths, Legends & Stories/Mountain Muscle.md",
+    "NPC/Important_NPC/Torania/--Richard Halcro.md",
+    "NPC/Important_NPC/Torania/--Saraf Goodwill.md",
+    "NPC/Important_NPC/Torania/--Vander Wilson.md",
+    "NPC/Important_NPC/Torania/Gustav Jensen.md",
+    "Wendrake Caligari.md",
+    "NPC/Important_NPC/Torania/--Victoria_s mother.md",
+    "Campaigns/Campaign - The Door of Origin.md",
+    "Locations/Torania/Regions/Frosteinn/Brogvona.md",
+    "Myths, Legends & Stories/Lārēow.md",
+    "Locations/Inglomass/Gesomnrīce forest.md",
+    "Locations/Inglomass/Bannoque.md",
+    "Locations/Inglomass/Framtid/Cities/Morfyr.md",
+    "Kingdoms/The Kingdom of Wexington.md",
+    "Lārēow Dont remember.md",
     "Maps/Inglomass/Leaflet Inglomass.base",
     "Maps/Inglomass/Region Leaflet Inglomass.base",
+    "Locations/Inglomass/Arangtor/Cities/Belminster.md",
+    "Images/Battlemaps/Torania/Brogvona_overworld_1763444957_288.png",
     "Locations/Ojyolco/Ejekapotlan/Ejekapotlan.md",
     "Locations/Ojyolco/Ejekapotlan/Ejecateipango.md",
     "Locations/Farlon/TBF Eindeloze Gat.md",
     "Kingdoms/The Kingdom of Saxxfrich.md",
-    "Campaigns/Campaign - The Door of Origin.md",
-    "Locations/Inglomass/Gesomnrīce forest.md",
-    "Kingdoms/The Kingdom of Wexington.md",
-    "Lārēow.md",
-    "Locations/Inglomass/Framtid/Cities/Morfyr.md",
     "Treaty of Free Woodlands.md",
     "Locations/Inglomass/Wexington/Cities/Dungarhal.md",
     "Kingdoms/The Kingdom of Framtid.md",
@@ -349,20 +350,7 @@
     "Locations/Inglomass/Wexington",
     "Locations/Inglomass/Saxxfrich",
     "Locations/Inglomass/Framtid",
-    "Locations/Inglomass/Ruines of Gesomnrīce.md",
     "Maps/Torania/Leaflet Torania.base",
-    "Gesomnrīce (Extincted).md",
-    "Locations/Inglomass/Saxxfrich/Cities/Wodefort.md",
-    "Kingdoms/The Kingdom of Arangtor.md",
-    "Locations/Inglomass/Arangtor/Cities/Belminster.md",
-    "Locations/Torania/Regions/Frosteinn/Brogvona.md",
-    "Locations/Torania/Regions/Frosteinn/Brogvona/Skáliván.md",
-    "NPC/Important_NPC/Torania/Reimund Leaf.md",
-    "Operation Nimici Emoții.md",
-    "Continent/Torania.md",
-    "NPC/Other_NPCs/Torania/Brogvona/Steffen Larsen.md",
-    "NPC/Other_NPCs/Torania/Brogvona/Eula Haugen.md",
-    "NPC/Important_Enemies_BBEG/Riston Aleate.md",
     "Maps/Ojyolco/Leaflet Ojyolco.base",
     "Images/Landmarks/Torania/Horn Heimsins/Battle Maps/Seioaromaor_Ruins_1786329245_121.png",
     "Images/Local Maps/Reboot Inglomass Farlon/Inglomass Region.png",

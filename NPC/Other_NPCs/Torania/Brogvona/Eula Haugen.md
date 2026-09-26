@@ -20,7 +20,7 @@ This is the main bartender of the tavern of [Brogvona](Brogvona.md). She is some
 - Her daughter works at the docks as she wants to travel and explore the seas with her own boat
 ## Friends (Real close)
 Eula has to know all people that enter the tavern, and so she has, but only a few can she name her friends
-- [Reimund Leaf](Reimund%20Leaf.md)
+- [Reimund Longstrike](Reimund%20Longstrike.md)
 - [Mea Olsen](Mea%20Olsen.md)
 ## Enemies
 - [--- Nicolai (Loyalty_s Captain)](---%20Nicolai%20(Loyalty_s%20Captain).md)

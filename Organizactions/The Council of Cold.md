@@ -11,7 +11,7 @@ Status: Not Finished
 The purpose of this council is to expand the cities in [Torania](Torania.md) and making them a safer and better place, making decisions, consulting suggestions and informing each other about any situation that comes to the surface of [Torania](Torania.md). The council were responsible for the creation of the docks up north and decided to maintain it under the control of Brogvona until they find a suitable person to run it so that it’ll be considered a unique city.
 
 ## Important Members
-- [Reimund Leaf](Reimund%20Leaf.md) (Brogvona)
+- [Reimund Longstrike](Reimund%20Longstrike.md) (Brogvona)
 - [--Saraf Goodwill](--Saraf%20Goodwill.md)(Brogkunnusta)
 - (Brogmog)
 - [--Richard Halcro](--Richard%20Halcro.md)(Brogfrior)

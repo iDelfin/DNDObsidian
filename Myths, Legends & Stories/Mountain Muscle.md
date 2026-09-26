@@ -7,7 +7,7 @@ Influence: Local
 Status: In Progress
 ---
 ### Local Location
-- [[Dwarven city]]
+- [[Bannoque]]
 
 ---
 

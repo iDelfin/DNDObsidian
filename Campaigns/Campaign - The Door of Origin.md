@@ -121,7 +121,7 @@ flowchart LR
 In the city of [Brogvona](Brogvona.md)
 
 ## Summery
-[--Moranima Firestorm](--Moranima%20Firestorm.md) will send out a help beacon to [Reimund Leaf](Reimund%20Leaf.md) and will ask for help. This is unprecedented as they don't normally ask for help. The party will be sent to [The Castle of Old](The%20Castle%20of%20Old.md) as this is the place where [--Moranima Firestorm](--Moranima%20Firestorm.md) is located.
+[Moranima Firestorm](Moranima%20Firestorm.md) will send out a help beacon to [Reimund Longstrike](Reimund%20Longstrike.md) and will ask for help. This is unprecedented as they don't normally ask for help. The party will be sent to [The Castle of Old](The%20Castle%20of%20Old.md) as this is the place where [Moranima Firestorm](Moranima%20Firestorm.md) is located.
 
 ## Brogvona & Beam from Castle of Old to Brogvona
 ---
@@ -131,14 +131,14 @@ In the city of [Brogvona](Brogvona.md)
 - Party living their normal life and being in [Brogvona](Brogvona.md) because of any reason.
 - A beam of light is seen flying though the sky and being receiving by the town hall
 - After one night a poster will be put up in the towns announcement board looking for adventurers for a destress call, more details later that afternoon.
-- During the meeting for the mission the players will meet [Reimund Leaf](Reimund%20Leaf.md)
+- During the meeting for the mission the players will meet [Reimund Longstrike](Reimund%20Longstrike.md)
 - There will be a briefing about the details of the mission that will make most people leave (see section of briefing for details).
 - Rei will mention that the mission will take the party to [The Castle of Old](The%20Castle%20of%20Old.md)
 
 ### Briefing
 | Speaker                           | Additional NPCs   | Location  |
 | --------------------------------- | ----------------- | --------- |
-| [Reimund Leaf](Reimund%20Leaf.md) | Other adventurers | City hall |
+| [Reimund Longstrike](Reimund%20Longstrike.md) | Other adventurers | City hall |
 - Initial details of mission
 	- Reimund received a distress called last night from a reliable source and a close ally to this town
 	- This ally is a really powerful and independent one, so the fact that there is a distress call is because something bad happened
@@ -296,7 +296,7 @@ Looking at
 - At the same time one will discover the effects of the shard on ones magic
 - [History 10] 
 	- You recall some books with knowledge of other plane effect
-	- You remember [Reimund Leaf](Reimund%20Leaf.md) mentioning something about plane magic
+	- You remember [Reimund Longstrike](Reimund%20Longstrike.md) mentioning something about plane magic
 
 > End of Act 1
 
@@ -404,15 +404,15 @@ Enter the [Stjarna Ruins](Stjarna%20Ruins.md) with the focus of the `engraved ma
 ---
 
 ### Bullet points development
-When the party gives the last item to [--Moranima Firestorm](--Moranima%20Firestorm.md), but the last one will not grant them any upgrade.
+When the party gives the last item to [Moranima Firestorm](Moranima%20Firestorm.md), but the last one will not grant them any upgrade.
 
 ### Summery
-When the party arrives to [The Castle of Old](The%20Castle%20of%20Old.md) they will be met by a dungeon and must travers it for [--Moranima Firestorm](--Moranima%20Firestorm.md) to know if this party is worthy of the mission. When they arrive to the innermost chamber of the Castle they will be met by non other that the Archimage [--Moranima Firestorm](--Moranima%20Firestorm.md). She will talk about what she is doing and the purpose of their investigation. She'll mention that the magic in [Torania](Torania.md) is in danger as the door that leads to the place of magic (`the Feywild`) is being pursuit by a dangerous wizard with the intents of gaining all the magic, but what he does not know is that by doing this, he'll strip the magic from all of [Torania](Torania.md), leading to deaths and suffering from all it's inhabitants. [--Moranima Firestorm](--Moranima%20Firestorm.md)'s plan is to go looking for the 3 relics that will lead to this door and keep them safe from the wizard.
+When the party arrives to [The Castle of Old](The%20Castle%20of%20Old.md) they will be met by a dungeon and must travers it for [Moranima Firestorm](Moranima%20Firestorm.md) to know if this party is worthy of the mission. When they arrive to the innermost chamber of the Castle they will be met by non other that the Archimage [Moranima Firestorm](Moranima%20Firestorm.md). She will talk about what she is doing and the purpose of their investigation. She'll mention that the magic in [Torania](Torania.md) is in danger as the door that leads to the place of magic (`the Feywild`) is being pursuit by a dangerous wizard with the intents of gaining all the magic, but what he does not know is that by doing this, he'll strip the magic from all of [Torania](Torania.md), leading to deaths and suffering from all it's inhabitants. [Moranima Firestorm](Moranima%20Firestorm.md)'s plan is to go looking for the 3 relics that will lead to this door and keep them safe from the wizard.
 
 ## Development II
 ---
 ### Summery
-After the party gives [--Moranima Firestorm](--Moranima%20Firestorm.md) the last item that they have collected, she will start talking about a change of plans. [--Moranima Firestorm](--Moranima%20Firestorm.md) will start talking in a way that seams unlike her, first by not hinting to the paction of her investigation, and also being really impatient, something that isn't like here. She'll tell the party that they must take the 3 items collected to the center of Aglotol, there they will be able to put the three items which stories are said that it'll lead to the "Door of Origin". The three items will form one staff, [--The Staff of Torania](--The%20Staff%20of%20Torania.md) which will help anyone to cross [The Ice Forest (Depricated)](The%20Ice%20Forest%20(Depricated).md). When telling [--Moranima Firestorm](--Moranima%20Firestorm.md) where did the objects lead them, she'll tell the adventurers to meet her there. They will arrive to [The Ice Forest (Depricated)](The%20Ice%20Forest%20(Depricated).md) and cross with [--Moranima Firestorm](--Moranima%20Firestorm.md) and arrive to this stone made door, with an ooze like substance, [The Door of fjölkyngi (magic Viking)](The%20Door%20of%20fjölkyngi%20(magic%20Viking).md) (HP OOTP door). When arriving to this door another [--Moranima Firestorm](--Moranima%20Firestorm.md) will appear and start attacking the [--Moranima Firestorm](--Moranima%20Firestorm.md) that told the party to meet her in [The Ice Forest (Depricated)](The%20Ice%20Forest%20(Depricated).md), reviling that the one being attacked was non other than the `BBEG wizard` which will flee into the door (or try to).
+After the party gives [Moranima Firestorm](Moranima%20Firestorm.md) the last item that they have collected, she will start talking about a change of plans. [Moranima Firestorm](Moranima%20Firestorm.md) will start talking in a way that seams unlike her, first by not hinting to the paction of her investigation, and also being really impatient, something that isn't like here. She'll tell the party that they must take the 3 items collected to the center of Aglotol, there they will be able to put the three items which stories are said that it'll lead to the "Door of Origin". The three items will form one staff, [--The Staff of Torania](--The%20Staff%20of%20Torania.md) which will help anyone to cross [The Ice Forest (Depricated)](The%20Ice%20Forest%20(Depricated).md). When telling [Moranima Firestorm](Moranima%20Firestorm.md) where did the objects lead them, she'll tell the adventurers to meet her there. They will arrive to [The Ice Forest (Depricated)](The%20Ice%20Forest%20(Depricated).md) and cross with [Moranima Firestorm](Moranima%20Firestorm.md) and arrive to this stone made door, with an ooze like substance, [The Door of fjölkyngi (magic Viking)](The%20Door%20of%20fjölkyngi%20(magic%20Viking).md) (HP OOTP door). When arriving to this door another [Moranima Firestorm](Moranima%20Firestorm.md) will appear and start attacking the [Moranima Firestorm](Moranima%20Firestorm.md) that told the party to meet her in [The Ice Forest (Depricated)](The%20Ice%20Forest%20(Depricated).md), reviling that the one being attacked was non other than the `BBEG wizard` which will flee into the door (or try to).
 
 ## Ending
 ---

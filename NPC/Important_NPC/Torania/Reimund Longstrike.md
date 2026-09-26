@@ -24,7 +24,7 @@ Reimund acts as the leader of the city of Brogvona and currently as the leader o
 # Relationships
 ---
 ## Family
-- [--Moranima Firestorm](--Moranima%20Firestorm.md) (Cousin)
+- [Moranima Firestorm](Moranima%20Firestorm.md) (Cousin)
 ## Friends
 - [Eula Haugen](Eula%20Haugen.md)
 ## Enemies

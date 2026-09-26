@@ -19,7 +19,7 @@ Status: Not Finished
 ---
 This city is the capital of the continent of [Torania](Torania.md) and the biggest city of it. Most of the trades that happen in [Torania](Torania.md) happens in this city. This is because the docks to the sea is also part of the city and most trades happen here. One will find various places where one can buy what they need, from a very specific ingredient for a potion, to all your basic needs to live.
 ## Details
-**Mayor**: [Reimund Leaf](Reimund%20Leaf.md)
+**Mayor**: [Reimund Longstrike](Reimund%20Longstrike.md)
 **Head general**: TBD
 **Organizations**: TBD
 **Important NPCs**: TBD

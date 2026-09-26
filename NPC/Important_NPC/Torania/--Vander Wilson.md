@@ -1,7 +1,5 @@
 ## Vander Wilson (a.k.a Van) (Leader of Defense) (He/Him) (Goliath) (NPC)
 This character is part of the council of [The Eye of Punishment](The%20Eye%20of%20Punishment.md) and has been since he was a young teenager. A very effective person who likes to do a lot of things and doesn't like not do something, be it work, investigate or even party. He has great resistance to alcohol and is the light of every party he goes to. He met [--Victoria's mother](--Victoria's%20mother.md) While working in [The Eye of Punishment](The%20Eye%20of%20Punishment.md) and started as co-workers and little by little became closer and then had [Victoria Wilson](Victoria%20Wilson.md).
-![FatherOfVictoria](FatherOfVictoria.jpg)
-
 ### Employment
 He is the part of the main council of [The Eye of Punishment](The%20Eye%20of%20Punishment.md) as the Leader of Action. It is his job to investigate how the religion is gonna take action on the problems they find and make them a reality.
 

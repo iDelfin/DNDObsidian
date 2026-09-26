@@ -2,10 +2,6 @@
 
 This Character is the Headmage of the mage collage in Brokunnusta and also the leader of the village. A human mage who has the distinguished caracteristic of being very responsible and skilled in various types of magic and really good with kids. One can feel a warm feeling while being whith her and if you are in her presence, she'll always offer a cup of tea.
 
-### Phisical apperence
-![HeadMaster_Saraf](HeadMaster_Saraf.jpg)
-(Syehbo, sf) *not my art, and will not monetize anything related to this*
-
 ## Mental characteristics
 
 ### Personal history
@@ -31,7 +27,7 @@ This Character is the Headmage of the mage collage in Brokunnusta and also the l
 
 ### Afiliations & Allies
 - Is an active member of [The Council of Cold](The%20Council%20of%20Cold.md)
-- Good friend of [Reimund Leaf](Reimund%20Leaf.md)
+- Good friend of [Reimund Longstrike](Reimund%20Longstrike.md)
 
 ## Statblock
 

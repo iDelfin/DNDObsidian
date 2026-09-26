@@ -6,7 +6,7 @@
 ## Information source
 ---
 - [--Sir. Romelo de los Castillos](--Sir.%20Romelo%20de%20los%20Castillos.md) was transporting the main ingredient for this medicine and could have said something
-- [Reimund Leaf](Reimund%20Leaf.md) can inform anyone willing to investigate about it and solve the problem.
+- [Reimund Longstrike](Reimund%20Longstrike.md) can inform anyone willing to investigate about it and solve the problem.
 	- He will know that there are some boat movements that seem really shady but doesn't want to be wrong about it, specially because he does not want to be seen like a mayor who doesn't trust his citizens.
 	- He will know that there have been reports of a shady people going to the lighthouse.
 	- He will also have a vile of the medicine for more closer inspection.

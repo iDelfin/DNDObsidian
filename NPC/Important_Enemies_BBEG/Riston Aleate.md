@@ -76,7 +76,7 @@ His laboratory is currently located on one of the caves that is located on the s
 - Has a good relationship with most leaders of the cities of [Torania](Torania.md)
 
 #### Enemies/Rivals
-- [--Moranima Firestorm](--Moranima%20Firestorm.md) knows that he is hiding something and it's not good.
+- [Moranima Firestorm](Moranima%20Firestorm.md) knows that he is hiding something and it's not good.
 
 #### Creation of Feel Killer
 

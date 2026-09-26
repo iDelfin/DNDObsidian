@@ -1,5 +1,0 @@
----
-tags:
-  - City
-Continent: "[[Inglomass]]"
----

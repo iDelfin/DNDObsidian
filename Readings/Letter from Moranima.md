@@ -4,7 +4,7 @@
 
 ### Properties
 **Written**: Ink in paper
-**Author**: [--Moranima Firestorm](--Moranima%20Firestorm.md)
+**Author**: [Moranima Firestorm](Moranima%20Firestorm.md)
 **Plane**: Material Plan
 **Location**: [The Castle of Old](The%20Castle%20of%20Old.md)
 **Language**: Common

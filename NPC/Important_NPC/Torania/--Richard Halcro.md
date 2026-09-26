@@ -1,9 +1,6 @@
 ### Mayor Richard Halcro (he/him) (Tabaxi) (NPC)
 
 This Character is the leader of the town of Brogfrior in the continent of [Torania](Torania.md), a logical & a very smart person and great with numbers. He is responsible of the managment of the town, their finance and maneges the merchants center "Dagmar". He always tries to solve a problem with the most logical solution and will always evaluate something with numbers.
-
-![Richard_Halcro](Richard_Halcro.jpg)
-(N.A., s.f)(deveant art) *not my art, and will not monetize anything related to this*
 ## Mental characteristics
 
 ### Personal history

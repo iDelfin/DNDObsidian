@@ -22,7 +22,7 @@ Their is an initiative by the Council of Cold to make the dock of Brogvona an in
 
 ### People/Organizations of interest
 - The idependence of this dock is one of [The Council of Cold](The%20Council%20of%20Cold.md) objectives
-- [Reimund Leaf](Reimund%20Leaf.md) has a close relation with `still thinking name`
+- [Reimund Longstrike](Reimund%20Longstrike.md) has a close relation with `still thinking name`
 
 ## Group
 Continent of Torania
