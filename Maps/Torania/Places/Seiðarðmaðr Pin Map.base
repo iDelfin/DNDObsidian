@@ -1,0 +1,11 @@
+views:
+  - type: leaflet-map
+    name: Table
+    image: Images/Landmarks/Torania/Horn Heimsins/Battle Maps/Seioaromaor_Ruins_1786329245_121.png
+    height: 700
+    mapName: SeioPin
+    minZoom: -3
+    defaultZoom: -2
+    maxZoom: 1
+    unit: m
+    scale: "0.02"

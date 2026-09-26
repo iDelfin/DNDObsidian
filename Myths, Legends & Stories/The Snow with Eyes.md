@@ -1,9 +1,14 @@
-
 ---
-### Tag: [Legend]
-
-### Category: [Song, Folklore]
-
+tags:
+  - Myth_n_Legend
+  - Song
+  - Folklore
+Influence: Regional
+Status: Done (Get better)
+---
+### Regonal Location
+- [Frosjöll](Frosjöll.md)
+---
 ### Properties
 **Written**: Various media
 **Author**: Unknown
@@ -19,4 +24,4 @@ do make sure to be with all
 jump and run to those in need
 and bring them in with all your speed
 As when the drops start to cover the sky
-You cant avoid the feel of the eyes*
+You cant avoid the feel of its eyes*

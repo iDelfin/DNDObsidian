@@ -1,13 +1,8 @@
 ---
-Category: The World
 tags:
   - World
-  - Gods
-  - Afterlife
+Aspect: Afterlife
 ---
----
-Group: "World laws and systems"
-
 ---
 
 ## The way
@@ -17,7 +12,7 @@ Group: "World laws and systems"
 	- **A gone and back** (Like "flatlining" for a moment or passing out) will look as if the nature appearing in flashes, like flashbacks and getting closer and closer until (and only if death arrives) the mortal appears inside it
 	- **A slow death** It'll look like the natural feature will slowly get near the mortal appears inside it
 ### Appearance
-- Depending on where the death happens geographically it'll determine what feature that will appear to the mortal 
+- Depending on where the the leaf of the [Kuauteponaualotl](Kuauteponaualotl.md) falls it'll determine what feature that will appear to the mortal 
 	- **Torania:** An infinite hallway of snow tree with endless corners
 	- **Inglomass:** An infinite hedge maze labyrinth with no obvious end
 	- **Ojyolco:** An endless Mangrove forest that seams like there is no horizon in sight
@@ -25,13 +20,13 @@ Group: "World laws and systems"
 All responsibility of the three gods as a way to judge the creatures actions in there mortal life
 
 ## Gods responsibilities
-*[---The Goddess of Nature](---The%20Goddess%20of%20Nature.md)*
+*[The Goddess of Nature](The%20Goddess%20of%20Nature.md)*
 Creates the whole natural area and makes it so that no part dies and remains beautiful
 
-*[---The Goddess of Time](---The%20Goddess%20of%20Time.md)*
+*[The Goddess of Time](The%20Goddess%20of%20Time.md)*
 Creates an area in [The Garden] where time moves differently. An independent passage of time that for a creature is normal, but it moves to the click of the [TBD]
 
-*[---The God_dess of Balance](---The%20God_dess%20of%20Balance.md)*
+*[The God_dess of Balance](The%20God_dess%20of%20Balance.md)*
 The responsible of the idea and responsible for the judgement of all mortals
 
 ## Judgement

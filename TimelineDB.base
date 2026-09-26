@@ -1,0 +1,15 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.tags.containsAll("History")
+    order:
+      - file.name
+      - Occurred
+      - Year
+    sort:
+      - property: Year
+        direction: ASC
+    image: note.Cover
+    cardSize: 150

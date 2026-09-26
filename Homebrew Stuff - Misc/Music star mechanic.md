@@ -1,17 +1,65 @@
-### Music Popularity Points (MPP)
+---
+tags:
+  - Mechanics
+  - World
+Status: Not Finished
+---
+
+# Music Popularity Points (MPP)
 ---
 These are the points that one may gain during their music career in the world of Direm. There are a lot of ways one can gain these point which will help in their road to World Popularity. This points can be redeemed for various things, be it for creating things that could help to the road of popularity or gaining temporary instant boons. The amount of MPP will indicate your popularity in the world which is indicated by 4 stages (Starter, Indie, Rising Star, Star)
 
-| Starter | Indie | Rising Star | Star |
-| :------: | :------: | :------: | :------: |
-| 0-9 MPP | 10-29 MPP | 30-59 MPP | 60-100 MPP |
-| You can now use MPP | You can now make an autographs booth | You can now make show at a stadium/center | Your fame now has influence on everybody as there is no person on Direm that doesn't know you. You have advantage on Charisma checks |
-|  | Inn can now accept you for shows/concerts | You may now organize big events and gain some of the wealth (10%) | You now gain 15% of the wealth gain on events you organize |
+|       Starter       |           Rising Star            |               Indie               |                           Star                            |
+| :-----------------: | :------------------------------: | :-------------------------------: | :-------------------------------------------------------: |
+|       1-9 MPP       |            10-29 MPP             |             30-59 MPP             |                        60-200 MPP                         |
+| You can now use MPP | Inn can now accept you for shows | You can register on Clubs to sing | You can register into arenas to sing to a bigger audience |
+|                     |     Set up a Meat and Greet      |  You may set up Autograph booths  |          A constant advantage to charisma rolls           |
 
-
-### How to gain MPP
+## Type of Star
 ---
-One can gain MPP though various manners which are the following
+---
+
+## Moving MPP
+---
+---
+MPP are the way one can quantify how impactful your music is around the world and how, well, popular it is to people. To do so one must do various actions and responsibilities to increase or maintain your MPP level.
+### Increase
+---
+#### Singing
+Singing is the most direct way to spread your music to the world and show your talents to the world. Depending on how you do your singing is the impact you'll have to increase your MPP
+##### Singing on the road/streets | 0 MPP
+*Starter performance*
+**IDK:** 20 DC
+**Impact:** +1 MPP
+**Downtime:** 1/4 day
+There is no place that isn't your stage. Grab your instrument and play your song, the public is your crowd
+##### Singing at Landmarks | 5 MPP
+*Starter performance*
+**IDK:** 18 DC
+**Impact:** +2 MPP
+**Downtime:** 1/2 day
+Your songs have spread enough that you won't be bothered in important landmarks. You have even become a landmark from the city itself.
+##### Singing at an inn | 10 MPP
+*Rising Star performance*
+**IDK:** 15 DC
+**Impact:** +3 MPP
+**Downtime:** 3/4 day
+You music has started to become known and with it local business would love to use your talents to bring new costumers. You may be invited to play on a *nearby* $^1$ inn or have advantage on asking to play on them.
+##### Singing at clubs | 20 MPP
+*Indie performance*
+**IDK:** 12 DC
+**Impact:** +5 MPP
+**Downtime:** 1 day
+Your music have come to the point where musical clubs will accept you, they see your potential. You may be invited to play on some exclusive clubs that include your genre of music. 
+##### Singing at arena | 60 MPP
+*Star performance*
+**IDK:** 10 DC
+**Impact:** +10 MPP
+**Downtime:** 2 days
+
+#### Special events
+This are events that you would do if you wanted to connect with your fans and do special things 
+
 - Singing/Making shows
 	- Singing outside *just the performance check*
 	- Singing at an inn (Check Table) *1d8*

@@ -1,12 +1,9 @@
-
 ---
-Tag: [#Underground]
-Category: [Cities]
-Group: ["Continent of Farlon"]
-
+tags:
+  - City
+Status: To be Rebooted
 ---
 ---
-**Location**: [Farlon](Farlon.md)
 **Languages**:
 **Title of the Leader**:
 **Flag/banner/emblem**: 

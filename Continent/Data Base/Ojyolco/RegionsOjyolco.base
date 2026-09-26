@@ -1,0 +1,7 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.tags.containsAny("Region")
+        - Continent == link("Ojyolco")

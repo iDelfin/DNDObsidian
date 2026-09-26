@@ -1,3 +1,0 @@
-Íss (Íss: Ice)
-
-Íssvöllr

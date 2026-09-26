@@ -1,20 +1,30 @@
-`World laws and systems`
+---
+tags:
+  - World
+  - Laws_n_systems
+Status: Done (Get better)
+---
 The origin of the magic in the world and how it works can be explained as various things working together and the personality of the individual that has the connection to magic.
 
 # Magical origin
 For one to have the ability to use magic there are many things that must work together to grant magic wilding and others that will modify the manifestation and use of it. Some may amplify the output, speed the output, or even free it without control. Every property plays a role and the work of each part brings what we know as magic.
 
 # Innerworkings of magic
-There are many parts that must work for an individual to use and manipulate magic. These innerworkings can be separated into 2 phases, the *Kuauteponaualotl phase* and the *Xochiyoua phase*. The basic difference between each phase is where it comes from. The Kuauteponaualotl phase happens in the Kuauteponaualotl tree and *Xochiyoua phase* happens in the receiving end of the process.
+There are many parts that must work for an individual to use and manipulate magic. These innerworkings can be separated into 2 phases, the *Kuauteponaualotl phase* and the *Xochiyoua phase*. The basic difference between each phase is where it comes from. The [Kuauteponaualotl](Kuauteponaualotl.md) phase happens in the [Kuauteponaualotl](Kuauteponaualotl.md) tree and *Xochiyoua phase* happens in the receiving end of the process.
 
 ---
-## The Kuauteponaualotl phase
+## The [Kuauteponaualotl](Kuauteponaualotl.md) phase
 - **Kuauteponaualotl:** The magic of this world comes essentially from the [[Kuauteponaualotl]] (kuautepontli (Tronco) - naualotl (Magia)). This is magic in it's most crude form
-	- All sapient creatures and some living beings have the connection to Kuauteponaualotl
-	- More explanation of the Kuauteponaualotl can be seen on its article
-- **Flower of Kuauteponaualotl:** One must turn into a flower of the tree to be granted the ability of magic
-	- All sapiens connection is represented by a leaf but when they gain the ability of manipulating magic, the leaf will turn into a flower
-	- Depending on their personality and receivers, they are able to tap to specific parts of Kuauteponaualotl, granting them the specific magic to them
+	- All sapient creatures and living beings have the connection to [Kuauteponaualotl](Kuauteponaualotl.md)
+	- More explanation of the [Kuauteponaualotl](Kuauteponaualotl.md) can be seen on its article
+- **Leaf of [Kuauteponaualotl](Kuauteponaualotl.md)**
+	- A leaf represent all living being with no magical properties and the tree transport energy and nutrients to maintain a healthy leaf
+	- And as normal leaves, they grow, they eat, and fall from the tree.
+	- Some leaves take more time to die, others fall faster than others but all are unique
+- **Flower of [Kuauteponaualotl](Kuauteponaualotl.md):** 
+	- One must turn into a flower of the tree to be granted the ability of magic as they require more energy and nutrients
+	- Depending on the location of the flower its the power they manipulate
+	- The location of ones flower can change depending with assistance of the Gods an Dieties
 	- Some creatures/people will be born with a flower connection
 		- Elves
 		- Some Half-elves
@@ -26,14 +36,45 @@ There are many parts that must work for an individual to use and manipulate magi
 		- Sorcerers 
 	- There is a way to damage a flower and that is by being affected by [Flower withering](Flower%20withering.md)
 ## Xochiyoua phase
-- **Receivers of magic:** Also known as feelings, they are responsible for receiving what is being sent by the flower of Kuauteponaualot. They can amplify, speed up, or change "width" of the flow of magic. It is confused by the origin of magic
-	- The concentration of a feeling will apply the corresponding effect to the flow of magic
-	- The presence of the feeling can also trigger the effect, for example being frustrated by an enemy, magic will become bigger but will cost more
-- **Jolín (Movimiento/nahuatl):** There is a property of living being transferring their magic or specific parts of magic transferring to another living being.
-	- Some do it naturally like nature to Druids
-	- For creature to creature transfer there must be a connection between them using specific items or items with Kuauteponaualot essence. This is called [Root Ritual](Root%20Ritual.md)
-- **Personality:** This step is more of a flavoring step than a necessary one. Depending on what is the personality of the individual, magic will manifest in different ways
-	- To give an example, a cleric follower of the Goddess of punishment may emit magic related to scales
+- The [Kuauteponaualotl](Kuauteponaualotl.md) will send out the energy of the leaf or flower to the respective being
+- The way the tree knows what leaf/flower goes to which being is with their emotion working as a unique ID
+### Emotion ID
+- Every single person react differently to any situation, even a mother and a daughter can react differently to a situation all depending on how they were raised.
+- This creates a unique set of emotions for all beings and works like a unique ID 
+- This unique ID is engraved/embedded in the leaf/flower which is read by the tree and sent to the being.
+#### Update of ID
+- Once a year the tree will "update" the ID of the being as all grow and evolve be it because of trauma, situations, etc
+- The tree will read the changes on the ID of the being and then it'll engrave the leaf/flower with the new ID
+
+### Jolín (Movimiento/nahuatl)
+- This property is the ability of a God, Deity or powerful entity to move one flower to another
+- It is a exhausting prosses for the being but a quick one
+- To do so the God, Deity of entity must create a new empty flower on the desired location and create one with no ID
+- Then the original flower will be destroyed, for this time the being doesn't receive the nutrients that the tree would normally give it and becomes exhausted
+- The moment the new flower is embedded with the ID is when the person receives it's nutrients again and regains it's energy
+
+## Important Tree locations
+There tree can be divided in various sections that branch out and create sub-dominions
+### Natures branches
+- **Fungi**
+- **Life**
+	- Animal
+	- Plants
+	- Bacteria
+- Land/Biomes
+- Weather
+### Time branches
+- **Dreams**
+- **Knowledge**
+- **Healing**
+- **Change**
+### Balance branches
+- **Chaos**
+- **Protection**
+- **Justice**
+
+---
+---
 ### Details
 #### Clerics/Paladin
 - This class have their magic emit their magic related to their beliefs

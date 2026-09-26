@@ -1,10 +1,9 @@
-
 ---
-Tag: []
-Category: [Continent]
-Group: ["Continent of Ojyolco"]
-
+tags:
+  - Continent
+Status: Not Finished
 ---
+
 ---
 
 **Flag/banner/emblem/logo**: 
@@ -12,13 +11,12 @@ Group: ["Continent of Ojyolco"]
 ---
 
 ## Regions
-- [---The Navalotl Forest](---The%20Navalotl%20Forest.md)
-- [TBF Maxituak](TBF%20Maxituak.md)
+![[RegionsOjyolco.base]]
 
 ## Natural Landmarks
-- [TBF The Tree of Life](TBF%20The%20Tree%20of%20Life.md)
+- [The Tree of Life](The%20Tree%20of%20Life.md)
 
 
 ## Cities/Settelments
-- [TBF Metepetitlan](TBF%20Metepetitlan.md)
-- [TBF Kuautlan Naualisyotl](TBF%20Kuautlan%20Naualisyotl.md)
+- [Metepetitlan](Metepetitlan.md)
+- [Bidxagui'shi](Bidxagui'shi.md)

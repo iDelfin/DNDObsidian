@@ -1,0 +1,20 @@
+filters:
+  and:
+    - file.tags.containsAny("Deity")
+views:
+  - type: cards
+    name: Goddess of Time
+    filters:
+      and:
+        - Parent == link("The Goddess of Time")
+    image: note.Symbol
+    cardSize: 140
+    imageAspectRatio: 0.75
+  - type: cards
+    name: Goddes of Nature
+    filters:
+      and:
+        - Parent == link("The Goddess of Nature")
+    image: note.Symbol
+    cardSize: 140
+    imageAspectRatio: 0.75

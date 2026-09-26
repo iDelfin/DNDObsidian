@@ -1,0 +1,54 @@
+filters:
+  and:
+    - "!Status.isEmpty()"
+views:
+  - type: table
+    name: Not Finished
+    filters:
+      and:
+        - Status == "Not Finished"
+    order:
+      - file.name
+      - tags
+      - Continent
+      - Region
+    sort:
+      - property: Region
+        direction: DESC
+      - property: Continent
+        direction: DESC
+  - type: table
+    name: In Progress
+    filters:
+      and:
+        - Status == "In Progress"
+    order:
+      - file.name
+      - tags
+      - Continent
+  - type: table
+    name: Modify
+    filters:
+      and:
+        - Status.contains("Modify")
+  - type: table
+    name: All
+    order:
+      - file.name
+      - tags
+      - Summery/AKA
+      - AKA
+    columnSize:
+      note.tags: 390
+  - type: table
+    name: Not Started
+    filters:
+      and:
+        - Status == "Not Started"
+    order:
+      - file.name
+      - tags
+      - Continent
+    sort:
+      - property: Continent
+        direction: ASC

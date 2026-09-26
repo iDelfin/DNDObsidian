@@ -1,1 +1,0 @@
-The main church of [TBF The Scales](TBF%20The%20Scales.md), and the second biggest building the the capital of the kingdom of Arangtor

@@ -1,0 +1,10 @@
+views:
+  - type: leaflet-map
+    name: Inglomas Region
+    image: Images/Local Maps/Reboot Inglomass Farlon/Inglomass Region.png
+    height: 680
+    mapName: InglomassRegion
+    defaultZoom: -2
+    minZoom: -2
+    scale: "0.1"
+    unit: km

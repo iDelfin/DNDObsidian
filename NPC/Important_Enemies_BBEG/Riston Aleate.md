@@ -1,13 +1,59 @@
+---
+tags:
+  - NPC
+  - BBEG
+Race: Vampire
+Class: Warlock
+Age: 50
+Belif: "[[Hell Watchers]]"
+Workplace: "[[--- Layer of Riston]]"
+Status: To be Rebooted
+---
+## Quick Info 
+---
+A character devoted to its studies but as well to his family that was lost to him. Her wife became cursed and lost her not only in the material plane, but believes that in the beyond as well.
+Tricked by [The Masiosare](The%20Masiosare.md) into being devoted to it in exchange of information on here wife. It showed him her wife being in the same plane as it, but needed to help it if he wanted to see his wife again. 
+One of the most powerful members of the [Hell Watchers](Hell%20Watchers.md)
+
+## Personality 
+---
+Serious
+## Fun Facts
+
+---
+- He has a huge scar on his arm
+
+## Current experiments
+---
+- Interception of wife leaf
+- Recreation of wife ID
+## Related Characters 
+---
+- **{{family_name}}** - {{relation}}
+
+## Backstory
+---
+A devoted husband and an excellent scholar, he dedicated his life on the studies of magic and its innerworkings. He got to the point of discovering that magic is received not created internally. He could have discovered more but his wife became affected by a curse and an illness. her health was degrading fast and changed his focus on medicine studies.
+There was little time for him to learn enough to safe her wife but helped with the pain. He continued to learn about curing curses, illness and became a really advanced doctor but it wasn't enough. The illness became to much to bare and gave in to the illness. It was a tragic day and dark day for him, and even more, when making a soothing ritual to make her travels though death easier, he couldn't hone in her. It was as if she didn't pass to the afterlife.
+When looking and indulging where she could be he stubbled upon [The Masiosare](The%20Masiosare.md) who told him that his wife was not in the normal afterlife, but lost in a realm forgotten by time and all.
+## Related Pages
+---
+# Deprecated
 
 | Race    | Motive           | Objective (Current)                                                                            |
 | ------- | ---------------- | ---------------------------------------------------------------------------------------------- |
 | Vampire | Cure his beloved | Harness feelings with the intent of uncursing her beloved (Which seam to be more than a curse) |
 
-This wizard will be the BBEG of the campaign of [--Campaign 'The Door of Origin'](--Campaign%20'The%20Door%20of%20Origin'.md).
+This wizard will be the BBEG of the campaign of [Campaign - The Door of Origin](Campaign%20-%20The%20Door%20of%20Origin.md).
 ## Story
 ---
+
 ### Backstory
-Riston was born and raised on the continent of [Farlon](Farlon.md) on the city of [Onderstad](Onderstad.md). When Riston grew up he dedicated his life to the arts of science. He enrolled to be part of the research faction with the focus of magic and it's effects with living being. During this time he served under the leadership of [The Wounter family](The%20Wounter%20family.md), a powerful and knowledgeable family that have been looking for the domination of all Vampire kind. During this time he dedicated his life to the family as he believed that Vampires should be ruled by one government and to be exposed to the world as a civilization to be threatened of. He became their most trusted ally and eventually became a very close friend of not only the family but of the middle daughters of the family, Sophia, to the point of becoming more than friends and what's better is that the family agrees to this relationship. As more time past that relationship grew more and more to the point of actually being in a relationship and wanting to develop a life together. But then, disaster came, unfortunately Sophia became ill with a rare and deadly disease that weakens vampires and impedes their immortality, even speeding up their decay. It was believed that this disease was eradiated, killed by the vampires of old in the most brutal and genocidal way, but the symptoms where enough proof to show that it wasn't. So Riston set of to find a cure for this disease, to save his loved one, to save Sophia. He new that he was already on the right path, if he could help the family become powerful as he set up to do originally, that power can also cure Sophia.
+Riston was born and raised on the continent of [Farlon](Farlon.md) on the city of [Onderstad](Onderstad.md). When Riston grew up he dedicated his life to the arts of science. He enrolled to be part of the research faction with the focus of magic and it's effects with living being. During this time he served under the leadership of [The Wounter family](The%20Wounter%20family.md), a powerful and knowledgeable family that have been looking for the domination of all Vampire kind. During this time he dedicated his life to the family as he believed that Vampires should be ruled by one government and to be exposed to the world as a civilization to be threatened of. He became their most trusted ally and eventually became a very close friend of not only the family but of the middle daughters of the family, Sophia. Their relationship grew and, with the support of the family, they became married. They spend all their fee time together, watching birds, stroll around and enjoy life together and with a little bit of luck, they became pregnant. Life was wonderful 
+Near the end of the pregnancy Sophia started to feel weaker that normal but didn't think much of it until the delivery came. From her came a beautiful baby but with it, Sophia contracted with an unknown illness. 
+
+
+It was believed that this disease was eradiated, killed by the vampires of old in the most brutal and genocidal way, but the symptoms where enough proof to show that it wasn't. So Riston set of to find a cure for this disease, to save his loved one, to save Sophia. He new that he was already on the right path, if he could help the family become powerful as he set up to do originally, that power can also cure Sophia.
 He traveled every corner of [Farlon](Farlon.md), every ruin, every ancient place he could visit, but no clue to be found. Until on one of his travels, while resting near the dwarven town, he overheard a myth from a traveler of a far away land. He spoke of the tail of a forbidden power, a power even the gods would interfere to stop the mortal of obtaining it. He researched this myth on his own, finding this story about this scholar from Inglomass, who sought the power of feelings and even almost obtaining it, but was destroyed by the gods. After researching more and more about these powers, from feelings, he discovered that there are various places where feelings originate from and infused all living beings with them. The text he read said "...Most of them are unknown, but one continent in particular could have one hidden in plane sight, a place where one could see the entire continent from the mountains. [Torania](Torania.md)..." With that said, he took the first ship to this new continent, took all his research and went with the mind to save his wife. From there he started to hide himself in plane sight, become someone else, a doctor, a tutor, a mentor even, anything that can make him look like a good guy, and maybe, with this mask he could get more favors, more information about his goal.
 
 ### Current situation
@@ -20,7 +66,7 @@ Privately he is a scientist in search of power, unethical power for him to use f
 Riston is currently experimenting on the manipulation of feelings and their effects on living beings and their relation they have with magic the individuals with a potential of expanding it to see it's effects in the world and it's balance. He has begun with there experiments using living being for and has created very horrible and grotesque stuff. Currently he is transferring emotions from one creature to another and see their physical and magical effects. He is focusing his research on the `Anger` and `Surprised` feelings by taking parts of the "Lesser_feelings" (outer ring) from one creature and inserting them in the other. The experiments had various conclusion, for starters the powers of a creature were increased. When Riston inserted an enemy near "the experiments" he did see mayor improvements on the power of spells. Another effects that he saw was physical as well, one could easily see that the arm of "the experiment" had grown longer and somewhat deformed. He can easily conclude that the more feelings the more power a creature gains, but, the more deformation it gains. But the limit is the amount of emotions and the increase of power can be more
 Riston will currently see what will the effects be if he inserts a "Great_feeling" (middle ring) to the two experiments of `Anger` and `Surprise` creature. His hypothesis is that the power will increase exponentially and make anyone as powerful as a dragon. 
 ##### Duplication of feeling liquid
-Riston Aleate stumbled upon this liquid by harvesting a rare flower (bell my flower) that bloomed in front of him and emitted a bright gleaming light and made the sound of small bells. After harvesting it little by little. The flower had 3 heads in total, and Riston used 2 of them for discovering what is was and what effect it could have. He discovered it was pure feelings, liquid that can be mold to any greater feeling and regain or overload a specific greater feeling. He harvested the las flower head and placed it inside [--The Flask Key](--The%20Flask%20Key.md). Ever since [Sindri Daergel](Sindri%20Daergel.md) stole the Flask he has been trying to recreate the liquid from other means and see if he can get the same results. So he sends some of it's experiments to the [---HQ of fake medicine layer](---HQ%20of%20fake%20medicine%20layer.md) and asks [---Odger Dubois (Fake medicine boss)](---Odger%20Dubois%20(Fake%20medicine%20boss).md) to mix his experiment into the their fake medicine and see it's effects.
+Riston Aleate stumbled upon this liquid by harvesting a rare flower (bell my flower) that bloomed in front of him and emitted a bright gleaming light and made the sound of small bells. After harvesting it little by little. The flower had 3 heads in total, and Riston used 2 of them for discovering what is was and what effect it could have. He discovered it was pure feelings, liquid that can be mold to any greater feeling and regain or overload a specific greater feeling. He harvested the las flower head and placed it inside [The Flask Key](The%20Flask%20Key.md). Ever since [Sindri Daergel](Sindri%20Daergel.md) stole the Flask he has been trying to recreate the liquid from other means and see if he can get the same results. So he sends some of it's experiments to the [HQ of fake medicine layer](HQ%20of%20fake%20medicine%20layer.md) and asks [---Odger Dubois (Fake medicine boss)](---Odger%20Dubois%20(Fake%20medicine%20boss).md) to mix his experiment into the their fake medicine and see it's effects.
 
 #### Current location
 His laboratory is currently located on one of the caves that is located on the south, near Brogkunnusta. He has been recently staying more time in there, mainly because he is currently on a breakthrough on his research of the effects of feelings on living being and their effects with magic amplification.
@@ -30,12 +76,9 @@ His laboratory is currently located on one of the caves that is located on the s
 - Has a good relationship with most leaders of the cities of [Torania](Torania.md)
 
 #### Enemies/Rivals
-- His former apprentice [Sindri Daergel](Sindri%20Daergel.md) is chasing him endlessly and wants to kill him
 - [--Moranima Firestorm](--Moranima%20Firestorm.md) knows that he is hiding something and it's not good.
 
 #### Creation of Feel Killer
 
-#### Creation of [--The Flask Key](--The%20Flask%20Key.md)
+#### Creation of [The Flask Key](The%20Flask%20Key.md)
 While developing ... he needed to find a substance that could give him the power to harness a feeling in the first place. After days and nights full of research, he found out that the nectar from a flower located on `the feywild`  could do the trick.
-## Group
-Bosses

@@ -1,0 +1,11 @@
+views:
+  - type: leaflet-map
+    name: Table
+    image: Images/Local Maps/Ojyolco/Reboot - Ojyolco.jpg
+    height: 680
+    defaultZoom: -1
+    minZoom: -2
+    zoomDelta: 0.5
+    unit: km
+    mapName: OjyolcoPin
+    scale: "0.02"

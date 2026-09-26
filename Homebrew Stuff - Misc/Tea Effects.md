@@ -1,3 +1,10 @@
+---
+tags:
+  - Mechanics
+  - World
+Status: Done (Get better)
+---
+
 _Inspired vaguely by CR’s Caduceus, but in oddly large part by TAZ’s Pocket Spa._
 
 **Coffee**: A brew of roasted coffee beans that gives a temporary reprieve from Exhaustion. _After drinking coffee, the character negates up to one exhaustion point for the duration of one hour._ So a character with one exhaustion point will, for the next hour, not feel any negative effects from their drowsiness. A character with two exhaustion points still has disadvantage on skill checks, but does not see their speed halved for the next hour, and so on. You can drink coffee for a maximum of three times per day, before it stops being effective. Once the active coffee period is over, the exhaustion points come straight back, and you still need to sleep to get rid of them in any lasting capacity.

@@ -8,31 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "\"Continent of Torania\"",
+      "query": "tag:#Continent  file:Torania",
       "color": {
         "a": 1,
         "rgb": 2722774
       }
     },
     {
-      "query": "\"Campagnes\"",
+      "query": "tag:#Landmarks  ",
       "color": {
         "a": 1,
-        "rgb": 1988357
+        "rgb": 13257479
       }
     },
     {
-      "query": "\"Continent of Inglomass\"",
+      "query": "tag:#Continent  file:Inglomass",
       "color": {
         "a": 1,
         "rgb": 363028
       }
     },
     {
-      "query": "\"Religion Of Dirme\"",
+      "query": "tag:#Religion  ",
       "color": {
         "a": 1,
-        "rgb": 16709274
+        "rgb": 16709986
       }
     },
     {
@@ -43,70 +43,70 @@
       }
     },
     {
-      "query": "\"Patrons\"",
+      "query": "tag:#Cult  ",
       "color": {
         "a": 1,
-        "rgb": 2228270
+        "rgb": 7089463
       }
     },
     {
-      "query": "\"Gods and Goddesses\"",
+      "query": "tag:#Gods  ",
       "color": {
         "a": 1,
-        "rgb": 9754367
+        "rgb": 7507126
       }
     },
     {
-      "query": "\"Deities\"",
+      "query": "tag:#Deity  ",
       "color": {
         "a": 1,
         "rgb": 12515326
       }
     },
     {
-      "query": "\"Sacred locations\"",
+      "query": "tag:#World  ",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 9309096
       }
     },
     {
-      "query": "\"Historic Battles\"",
+      "query": "tag:#Demon  ",
       "color": {
         "a": 1,
-        "rgb": 7026944
+        "rgb": 7995392
       }
     },
     {
-      "query": "\"Bosses\"",
+      "query": "tag:#Bosses  ",
       "color": {
         "a": 1,
         "rgb": 406272
       }
     },
     {
-      "query": "\"Continent of Ojyolco\"",
+      "query": "tag:#Continent  file:Ojyolco",
       "color": {
         "a": 1,
         "rgb": 16711854
       }
     },
     {
-      "query": "\"Player Characters\"",
+      "query": "tag:#Region  ",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "\"Cults\"",
+      "query": "tag:#Orders",
       "color": {
         "a": 1,
         "rgb": 10486531
       }
     },
     {
-      "query": "\"Special Items\"",
+      "query": "tag:#Special_item  ",
       "color": {
         "a": 1,
         "rgb": 4609027
@@ -120,24 +120,24 @@
       }
     },
     {
-      "query": "\"Cities\"",
+      "query": "tag:#City  ",
       "color": {
         "a": 1,
         "rgb": 6772072
       }
     },
     {
-      "query": "\"Depricated\"",
+      "query": "tag:#Depricated  ",
       "color": {
         "a": 1,
-        "rgb": 4325376
+        "rgb": 9868950
       }
     },
     {
-      "query": "\"World laws and systems\"",
+      "query": "tag:#Kingdom  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 16205170
       }
     },
     {
@@ -146,18 +146,32 @@
         "a": 1,
         "rgb": 720947
       }
+    },
+    {
+      "query": "tag:#Campaign  ",
+      "color": {
+        "a": 1,
+        "rgb": 12063813
+      }
+    },
+    {
+      "query": "tag:#City_Landmark  ",
+      "color": {
+        "a": 1,
+        "rgb": 15303180
+      }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
+  "collapse-display": false,
+  "showArrow": true,
   "textFadeMultiplier": -1.5,
   "nodeSizeMultiplier": 1.00155925155925,
   "lineSizeMultiplier": 2.02027027027027,
   "collapse-forces": true,
-  "centerStrength": 0.196465696465696,
-  "repelStrength": 12.8274428274428,
-  "linkStrength": 0.700520833333333,
-  "linkDistance": 255,
-  "scale": 0.09020015697038067,
+  "centerStrength": 0.196511990034257,
+  "repelStrength": 13.4093129273852,
+  "linkStrength": 0.794456555590159,
+  "linkDistance": 65,
+  "scale": 0.04231590268975955,
   "close": true
 }

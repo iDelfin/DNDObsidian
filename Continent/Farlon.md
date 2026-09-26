@@ -1,9 +1,5 @@
 
 ---
-Tag: [#Mountain_Ranges]
-Category: [Continent]
-Group: ["Continent of Farlon"]
-
 ---
 ---
 

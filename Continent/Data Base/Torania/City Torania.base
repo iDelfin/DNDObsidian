@@ -1,0 +1,20 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.tags.containsAny("City", "Farm", "Docks")
+        - Continent == "Torania"
+    order:
+      - file.name
+      - Population
+      - Region
+      - tags
+      - AKA
+    sort:
+      - property: Region
+        direction: DESC
+      - property: file.name
+        direction: DESC
+    cardSize: 170
+    image: note.Cover

@@ -5,20 +5,20 @@
 - The Force Bringer
 
 ## The Gods of All
-- [---The God_dess of Balance](---The%20God_dess%20of%20Balance.md)
-- [---The Goddess of Nature](---The%20Goddess%20of%20Nature.md)
-- [---The Goddess of Time](---The%20Goddess%20of%20Time.md)
+- [The God_dess of Balance](The%20God_dess%20of%20Balance.md)
+- [The Goddess of Nature](The%20Goddess%20of%20Nature.md)
+- [The Goddess of Time](The%20Goddess%20of%20Time.md)
 
-## Deities/[---Deities](---Deities.md)
-- Deity of Change (Created Changelings)
-- Deity of Knowledge
-- Deity of Healing
-- Deity of Dreams
-- Deity of Chaos
-- Deity of Protection
-- Deity of Justice
-- Watcher deity
-- Deity of Life
-- Deity of Death
-- Deity of  Weather
-- Deity of the Land
+## Deities/[Deities](Deities.md)
+- [Shifter of Shapes](Shifter%20of%20Shapes.md)
+- [The All-Knower](The%20All-Knower.md)
+- [The Comforting one](The%20Comforting%20one.md)
+- [Deity of Dreams](Deity%20of%20Dreams.md)
+- [[Deity of Chaos]]
+- [[Deity of Protection]]
+- [[Deity of Justice]]
+- [[Watcher deity]]
+- [Deity of Life](Deity%20of%20Life.md)
+- [[Deity of Death]]
+- [[Deity of  Weather]]
+- [Deity of the Land](Deity%20of%20the%20Land.md)

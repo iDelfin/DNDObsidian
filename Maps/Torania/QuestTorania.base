@@ -1,0 +1,19 @@
+views:
+  - type: leaflet-map
+    name: SideQuests
+    image: Images/Local Maps/Torania/Reboot - Torania.jpg
+    height: 680
+    mapName: QMTorania
+    defaultZoom: -1
+    minZoom: -2
+    scale: "0.01"
+    unit: km
+  - type: leaflet-map
+    name: MainQuestC3
+    image: Images/Local Maps/Torania/Reboot - Torania.jpg
+    height: 680
+    mapName: MQC3
+    defaultZoom: -1
+    minZoom: -2
+    unit: km
+    scale: "0.04"

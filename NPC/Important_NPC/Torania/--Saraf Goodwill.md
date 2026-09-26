@@ -30,8 +30,8 @@ This Character is the Headmage of the mage collage in Brokunnusta and also the l
 ### Mental Trauma
 
 ### Afiliations & Allies
-- Is an active member of [-The Council of Cold](-The%20Council%20of%20Cold.md)
-- Good friend of [ENH Reimund Leaf](ENH%20Reimund%20Leaf.md)
+- Is an active member of [The Council of Cold](The%20Council%20of%20Cold.md)
+- Good friend of [Reimund Leaf](Reimund%20Leaf.md)
 
 ## Statblock
 

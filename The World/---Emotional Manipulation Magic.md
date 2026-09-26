@@ -1,3 +1,8 @@
+---
+tags:
+  - Depricated
+---
+
 JA, me voy a matar (Depricated)
 `Depricated`
 

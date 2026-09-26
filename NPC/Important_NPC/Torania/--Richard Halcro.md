@@ -32,10 +32,10 @@ This Character is the leader of the town of Brogfrior in the continent of [Toran
 ### Disagrements/Hates
 
 ### Conflicts of intrests
-- As much as he knows that the fake medicine situation is bad, he doesn't want to have a strong opinion nor effect on it because the city of Brogfrior is gaining money from his sales, but if presented with clear evidence that someone is selling or producing it, he must put them in jail, as he still is a member of [-The Council of Cold](-The%20Council%20of%20Cold.md).
+- As much as he knows that the fake medicine situation is bad, he doesn't want to have a strong opinion nor effect on it because the city of Brogfrior is gaining money from his sales, but if presented with clear evidence that someone is selling or producing it, he must put them in jail, as he still is a member of [The Council of Cold](The%20Council%20of%20Cold.md).
 
 ### Afiliations
-- Is an active member of [-The Council of Cold](-The%20Council%20of%20Cold.md)
+- Is an active member of [The Council of Cold](The%20Council%20of%20Cold.md)
 
 ### Allies
 

@@ -1,0 +1,22 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.tags.containsAny("Landmarks")
+        - City.isEmpty()
+        - Continent == link("Torania")
+    order:
+      - file.name
+      - Region
+      - tags
+      - Type Landmark
+    sort:
+      - property: tags
+        direction: ASC
+    columnSize:
+      file.name: 158
+      note.Region: 158
+    image: note.Cover
+    cardSize: 140
+    imageAspectRatio: 0.7

@@ -1,23 +1,26 @@
 ---
-
+tags:
+  - Myth_n_Legend
+  - Story
+  - Myth
+  - History
+Influence: Lost
+Occurred: "[[Xochitlan]]"
+Year: -100
+Status: Done (Get better)
 ---
----
-### Tag: [Myth]
-
-### Category: [Story, Lore]
-
+### Lost location
+| Tablet   | Location                  |
+| -------- | ------------------------- |
+| Tablet A | Inglomass                 |
+| Tablet B | Farlon                    |
+| Tablet C | Oyolco                    |
+| Tablet D | [Bruniauga](Bruniauga.md) |
 ### Properties
 **Written**: Stone tablets
 **Plane**: Xochitlan
-**Author**: [Deity of Healing](Deity%20of%20Healing.md)
-**Location**:
+**Author**: [The Comforting one](The%20Comforting%20one.md)
 
-| Tablet   | Location  |
-| -------- | --------- |
-| Tablet A | Inglomass |
-| Tablet B | Farlon    |
-| Tablet C | Oyolco    |
-| Tablet D | Torania   |
 
 **Language**: Sylvian (Nahuatl)
 

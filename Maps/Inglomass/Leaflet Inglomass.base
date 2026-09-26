@@ -1,0 +1,9 @@
+views:
+  - type: leaflet-map
+    name: Inglomass Pin
+    mapName: InglomassPin
+    image: Images/Local Maps/Reboot Inglomass Farlon/Reboot - Inglomass_Farlon.jpg
+    height: 680
+    scale: "0.1"
+    unit: km
+    minZoom: -2

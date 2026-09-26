@@ -1,0 +1,24 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Continent": "text",
+    "Region": "text",
+    "Population": "number",
+    "Disciples": "number",
+    "marker": "marker",
+    "Milestone": "checkbox",
+    "AKA": "text",
+    "Campaign #": "number",
+    "Year": "number",
+    "A": "number",
+    "Age": "number",
+    "Shown": "checkbox",
+    "Lvl": "number",
+    "Cannon": "checkbox",
+    "Hight": "number",
+    "Buildings": "number",
+    "Broken": "checkbox"
+  }
+}

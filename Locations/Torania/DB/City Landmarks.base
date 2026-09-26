@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.tags.containsAny("City_Landmark")
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - City == link("Brogvona")
+    order:
+      - file.name
+      - Purpose
+      - AKA
+    columnSize:
+      note.Purpose: 147

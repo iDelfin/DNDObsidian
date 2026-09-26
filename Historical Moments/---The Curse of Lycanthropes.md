@@ -1,2 +1,0 @@
-## Creator of the Curse
-The entity who created the Curse of Lycanthrope and rage when killing a creature was non other than [---The Goddess of Nature](---The%20Goddess%20of%20Nature.md) as a punishment for what `The First Lycantrope did` to life on the forest at [Inglomass](Inglomass.md) and all Lycanthropes have suffered ever since.

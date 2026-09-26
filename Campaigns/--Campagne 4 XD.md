@@ -31,7 +31,7 @@ Any interested please meet me on the last sunset of the month inside the private
 | Real     |  Liévin  |                        Disciple of Masiosare                         | Vampire (Constant Disguise self) | 235 | N/A (Farlon) |
 | False    | Mattheus | Scholar in inner works of magic & specialization on ancient history  |             Half-elf             | 31  |   Brogvona   |
 
-**Location**: Tavern of [---Brogkunnusta _City of Knowledge_](---Brogkunnusta%20_City%20of%20Knowledge_.md)
+**Location**: Tavern of [Brogkunnusta](Brogkunnusta.md)
 **Talk points**:
 - Thanks for the interest
 - His presentation (False)
@@ -40,7 +40,7 @@ Any interested please meet me on the last sunset of the month inside the private
 	- In search of something called A Door of Origin found in some ancient texts from the library
 	- Explain how it is theorized that the door may connect our world to a place filled with the essence of the world and heard rumors that may see and talk to the dead as if they were alive
 	- His wants are to document the innerworkings of the world and with it create easier and mor effective ways to become one with the world
-	- The first task is to explore the [---The Castle of Old](---The%20Castle%20of%20Old.md) and look for any books containing information of the door as it is well known that the castle contained immense amount of books
+	- The first task is to explore the [The Castle of Old](The%20Castle%20of%20Old.md) and look for any books containing information of the door as it is well known that the castle contained immense amount of books
 	- It is also known that the castle has been taken over by an eerie creature of shadow
 - Final reward discussion
 	- Will give the players 800 GP each time they get any information of the whereabouts of the door
@@ -51,5 +51,5 @@ Any interested please meet me on the last sunset of the month inside the private
 	- A cart with two horses
 - When returning from the castle, contact me though this singing stone and I'll tell you where to meet as my travels and investigations will take me anywhere
 
-### Road to [---The Castle of Old](---The%20Castle%20of%20Old.md)
+### Road to [The Castle of Old](The%20Castle%20of%20Old.md)
 

@@ -6,130 +6,156 @@
       {
         "id": "e2dd0ef3fb137689",
         "type": "tabs",
-        "dimension": 51.804330392943065,
+        "dimension": 65.78073089700996,
         "children": [
           {
-            "id": "56ca3f1f2e39462f",
+            "id": "ca27b29592c67942",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ojyolco/Maxituak/TBF Kuautlan Naualisyotl.md",
+                "file": "Locations/Inglomass/Arangtor/Cities/Belminster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TBF Kuautlan Naualisyotl"
+              "title": "Belminster"
             }
           },
           {
-            "id": "e3fdf0a2b90f9cfa",
+            "id": "c7e28cf3e783e280",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/--Campaign _The Door of Origin_.md",
+                "file": "Locations/Torania/Regions/Frosteinn/Brogvona.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "--Campaign _The Door of Origin_"
+              "title": "Brogvona"
             }
           },
           {
-            "id": "f769e350b4e96f49",
+            "id": "874685b7e57baefc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The World/Magic system (Tree of magic and receivers).md",
+                "file": "Locations/Inglomass/Framtid/Cities/Morfyr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic system (Tree of magic and receivers)"
+              "title": "Morfyr"
             }
           },
           {
-            "id": "ec59d231ea4f2d22",
+            "id": "91aa253c8f1fc7a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods & Patrons/Dieties/---Deities.md",
+                "file": "Campaigns/Campaign - The Door of Origin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "---Deities"
+              "title": "Campaign - The Door of Origin"
             }
           },
           {
-            "id": "5b44a4fef133f662",
+            "id": "df768a5b723f8d2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religions/TBF The Flowing Sand.md",
+                "file": "Locations/Ojyolco/Ejekapotlan/Ejekapotlan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TBF The Flowing Sand"
+              "title": "Ejekapotlan"
             }
           },
           {
-            "id": "f9d388f74af3f281",
+            "id": "b01447aad970b681",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Torania/TBC Bruniauga.md",
+                "file": "Locations/Inglomass/Gesomnrīce forest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TBC Bruniauga"
+              "title": "Gesomnrīce forest"
             }
           },
           {
-            "id": "aa7d53f1fb1a6f93",
+            "id": "e6cde57ae43767eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religions/TBF Kokone ik Iukayotl (Sons of Nature).md",
+                "file": "Kingdoms/The Kingdom of Wexington.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TBF Kokone ik Iukayotl (Sons of Nature)"
+              "title": "The Kingdom of Wexington"
             }
           },
           {
-            "id": "247c15b6db76bf50",
+            "id": "8a5fb94048b4b139",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The World/Life cycle/The appearing nature (Death).md",
+                "file": "Lārēow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The appearing nature (Death)"
+              "title": "Lārēow"
+            }
+          },
+          {
+            "id": "80f20b758a3e20fc",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Maps/Inglomass/Leaflet Inglomass.base",
+                "viewName": "Inglomass Pin"
+              },
+              "icon": "lucide-map",
+              "title": "Leaflet Inglomass"
+            }
+          },
+          {
+            "id": "a98c58b64ca3c0d2",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Maps/Inglomass/Region Leaflet Inglomass.base",
+                "viewName": "Inglomas Region"
+              },
+              "icon": "lucide-map",
+              "title": "Region Leaflet Inglomass"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       },
       {
-        "id": "36063c3087782473",
+        "id": "78a1c9bf30431f99",
         "type": "tabs",
-        "dimension": 48.195669607056935,
+        "dimension": 34.21926910299003,
         "children": [
           {
-            "id": "20da336d0545e496",
+            "id": "c8b76430ea9be6a5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -158,7 +184,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -205,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 288.70001220703125
   },
   "right": {
     "id": "5ff39a3e7688b939",
@@ -293,57 +321,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "aa7d53f1fb1a6f93",
+  "active": "80f20b758a3e20fc",
   "lastOpenFiles": [
-    "Locations/Torania/Regions/Horn Heimsins/TBF Ice Watcher.md",
-    "Locations/Torania/Regions/Dalrhuxan/TBF Dalrhuxan.md",
-    "Locations/Torania/Regions/Dalrhuxan/---The Castle of Old.md",
-    "Locations/Torania/Regions/Dalrhuxan",
-    "The World/Magic system (Tree of magic and receivers).md",
-    "Campaigns/--Campaign _The Door of Origin_.md",
-    "Campaigns/--Campagne _The Blood Moon Gem_.md",
-    "Locations/Torania/Regions/Frosteinn/TBF Frosteinn.md",
-    "Religions/TBF The Flowing Sand.md",
-    "Locations/Torania/TBC Bruniauga.md",
-    "Religions/TBF Kokone ik Iukayotl (Sons of Nature).md",
-    "Gods & Patrons/Dieties/---Deities.md",
-    "Gods & Patrons/Dieties/Deity of Change.md",
-    "Locations/Ojyolco/Maxituak/TBF Maxituak.md",
-    "The World/Life cycle/The appearing nature (Death).md",
-    "Locations/Ojyolco/Maxituak/TBF Kuautlan Naualisyotl.md",
-    "Locations/Ojyolco/Maxituak/TBF The Tree of Life.md",
-    "Demon-like creatures/TBC Micixhua.md",
-    "Religions/TBF The Scales.md",
-    "Locations/Ojyolco/Navalotl Forest/---The Navalotl Forest.md",
-    "Locations/Torania/Regions/Frosjöll/TBF Íssvöllr Farm.md",
-    "Locations/Torania/Regions/Frosjöll/TBF Frosjöll.md",
-    "Locations/TBF The Great Column.md",
-    "Locations/Torania/TBR The Ice Forest (Depricated).md",
-    "Locations/Torania/-The Door of fjölkyngi (magic Viking).md",
-    "Locations/Torania/--- Layer of Riston.md",
-    "Locations/Torania/--Erythroier hidden layer.md",
-    "Gods & Patrons/Gods",
-    "The World/Life cycle/desktop.ini",
-    "The World/Life cycle",
-    "Locations/Ojyolco/Navalotl Forest/desktop.ini",
-    "Locations/Ojyolco/Tlapixki",
-    "Locations/Ojyolco/Ejekapotlan",
-    "Locations/Ojyolco/Navalotl Forest",
-    "Locations/Ojyolco/Maxituak",
-    "Locations/Torania/Regions/Frosjöll",
-    "Images/Concept/TowerCollumn.jpg",
-    "Images/Local Maps/Torania/Other Locations/Castle of old/CastleInside - lvl1 notes.png",
-    "Images/Local Maps/Torania/Other Locations/Castle of old/MoranimaLabHutCOF.png",
-    "Images/Local Maps/Torania/Other Locations/Castle of old/CastleInside - Lvl1.png",
-    "Images/Local Maps/Torania/Other Locations/Castle of old/CastleInside - Unnamed Level.png",
-    "Images/Local Maps/Torania/Torania (2).jpg",
+    "Maps/Inglomass/Region Leaflet Inglomass.base",
+    "Locations/Ojyolco/Ejekapotlan/Ejekapotlan.md",
+    "Locations/Ojyolco/Ejekapotlan/Ejecateipango.md",
+    "Locations/Farlon/TBF Eindeloze Gat.md",
+    "Kingdoms/The Kingdom of Saxxfrich.md",
+    "Campaigns/Campaign - The Door of Origin.md",
+    "Locations/Inglomass/Gesomnrīce forest.md",
+    "Kingdoms/The Kingdom of Wexington.md",
+    "Lārēow.md",
+    "Locations/Inglomass/Framtid/Cities/Morfyr.md",
+    "Treaty of Free Woodlands.md",
+    "Locations/Inglomass/Wexington/Cities/Dungarhal.md",
+    "Kingdoms/The Kingdom of Framtid.md",
+    "Locations/Inglomass/Wexington/Cities",
+    "Locations/Inglomass/Framtid/Cities",
+    "Locations/Inglomass/Saxxfrich/Cities",
+    "Locations/Inglomass/Wexington",
+    "Locations/Inglomass/Saxxfrich",
+    "Locations/Inglomass/Framtid",
+    "Locations/Inglomass/Ruines of Gesomnrīce.md",
+    "Maps/Torania/Leaflet Torania.base",
+    "Maps/Inglomass/Leaflet Inglomass.base",
+    "Gesomnrīce (Extincted).md",
+    "Locations/Inglomass/Saxxfrich/Cities/Wodefort.md",
+    "Kingdoms/The Kingdom of Arangtor.md",
+    "Locations/Inglomass/Arangtor/Cities/Belminster.md",
+    "Locations/Torania/Regions/Frosteinn/Brogvona.md",
+    "Locations/Torania/Regions/Frosteinn/Brogvona/Skáliván.md",
+    "NPC/Important_NPC/Torania/Reimund Leaf.md",
+    "Operation Nimici Emoții.md",
+    "Continent/Torania.md",
+    "NPC/Other_NPCs/Torania/Brogvona/Steffen Larsen.md",
+    "NPC/Other_NPCs/Torania/Brogvona/Eula Haugen.md",
+    "NPC/Important_Enemies_BBEG/Riston Aleate.md",
+    "Maps/Ojyolco/Leaflet Ojyolco.base",
+    "Images/Landmarks/Torania/Horn Heimsins/Battle Maps/Seioaromaor_Ruins_1786329245_121.png",
+    "Images/Local Maps/Reboot Inglomass Farlon/Inglomass Region.png",
+    "Images/Local Maps/Reboot Inglomass Farlon/Reboot - Inglomass_Farlon.jpg",
+    "Images/Landmarks/Torania/Horn Heimsins/IceWatcherConcept.jpg",
+    "Images/Local Maps/Torania/Cities/Brogvona/hqLayer Lv.1 _ Notes.png",
+    "Images/Battlemaps/Torania/Brogvona_overworld_1763444957_288.png",
+    "Images/Local Maps/Torania/RebootToraniaRegions.png",
+    "Images/Local Maps/Torania/Reboot - Torania.jpg",
     "Images/Local Maps/Torania/SideQuestMapTorania_48x21.png",
-    "Images/Misc/Dubois_symbol.png",
-    "Images/Local Maps/Torania/Cities/Brogvona/Layer Lv.1 _ Notes.png",
-    "Images/Local Maps/Torania/Cities/Brogvona/Boat_only_Inside_Num.png",
+    "Images/Concept/Inglomass/Arangtor/NPCs/Arangtor Guard.png",
     "Untitled.canvas"
   ]
 }
