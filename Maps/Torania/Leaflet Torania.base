@@ -1,7 +1,7 @@
 views:
   - type: leaflet-map
     name: Torania Pin
-    image: Images/Local Maps/Torania/Reboot - Torania.jpg
+    image: Images/Local Maps/Torania/Reboot - Torania - C.png
     height: 660
     minZoom: -1
     defaultZoom: -1

@@ -10,10 +10,10 @@ Languages: Common (English/Spanish)
 Buildings: 109
 Population: 650
 marker:
-  - coordinates: 894, 643
+  - coordinates: 880, 722
     mapName: ToraniaPinMap
     icon: game-icons:vertical-banner
-    minZoom: -0.5
+    minZoom: -1
 Status: Not Finished
 ---
 ---

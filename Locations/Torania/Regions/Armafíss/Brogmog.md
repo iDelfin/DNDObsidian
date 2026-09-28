@@ -8,10 +8,10 @@ Cover:
 Languages:
 Population:
 marker:
-  - coordinates: 741, 1405
+  - coordinates: 738, 1361
     mapName: ToraniaPinMap
     icon: lucide-flag
-    minZoom: -0.5
+    minZoom: -1
 Status: Not Finished
 ---
 ---

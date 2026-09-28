@@ -11,7 +11,7 @@ marker:
   - coordinates: 512, 671
     mapName: ToraniaPinMap
     icon: lucide-flag
-    minZoom: -0.5
+    minZoom: -1
 Status: Not Finished
 ---
 ---
