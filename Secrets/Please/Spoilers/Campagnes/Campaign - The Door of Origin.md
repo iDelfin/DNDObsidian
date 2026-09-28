@@ -3,6 +3,7 @@ tags:
   - Campaign
   - Combat
   - Exploration
+  - DM
 "Campaign #": 3
 marker:
   - mapName: MQC3
